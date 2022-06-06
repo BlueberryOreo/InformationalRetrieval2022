@@ -13,6 +13,10 @@ visited = set()
 result = []
 exist = {}
 # root_url2 = "http://scst.suda.edu.cn/"
+if not os.path.exists("./utils/websites"):
+    os.mkdir("./utils/websites")
+if not os.path.exists("./utils/htmls"):
+    os.mkdir("./utils/htmls")
 
 
 def init():
