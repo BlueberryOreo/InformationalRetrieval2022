@@ -1,0 +1,203 @@
+title:
+2016年三大检索收录论文
+
+body:
+导航
+
+首 页
+
+学院概况
+
+学院简介
+
+历史沿革
+
+现任领导
+
+机构设置
+
+办学资源
+
+联系方式
+
+学科建设
+
+江苏省优势学科
+
+博士点
+
+硕士点
+
+实验室安全
+
+师资队伍
+
+师资概况
+
+教职工名单
+
+导师简介
+
+兼职师资
+
+科学研究
+
+研究中心
+
+自然语言处理研究中心
+
+机器学习与图像处理研究中心
+
+数据科学与工业软件研究中心
+
+网络科学与工程研究中心
+
+人工智能研究院
+
+嵌入式技术及系统能力培养研究中心
+
+科研机构
+
+科研项目
+
+科研论文
+
+知识产权
+
+科研政策
+
+人才培养
+
+博士生
+
+硕士生
+
+本科生
+
+人才培养方案
+
+课程教学大纲
+
+图灵班
+
+国际交流
+
+学生工作
+
+工作队伍
+
+学工通知
+
+学工新闻
+
+规章制度
+
+志愿服务
+
+学生组织
+
+勤工助学
+
+心理健康
+
+职业规划
+
+成长陪伴
+
+党群工作
+
+基层组织
+
+规章制度
+
+专题活动
+
+分党校工作
+
+发展公示
+
+关工委工作
+
+工会工作
+
+2016年三大检索收录论文
+发布者：发布时间：2017-02-20浏览次数：343
+
+序号作 者/通讯作者题   名刊   名收录情况1张召A Sparse Projection and Low-Rank Recovery Framework for Handwriting Representation and Salient Stroke Feature ExtractionACM TRANSACTIONS ON INTELLIGENT SYSTEMS AND TECHNOLOGYSCIE2陈文亮Distributed Feature Representations for Dependency ParsingIEEE-ACM TRANSACTIONS ON AUDIO SPEECH AND LANGUAGE PROCESSINGSCIE3程宝雷Dimensional-Permutation-Based Independent Spanning Trees in Bijective Connection NetworksIEEE TRANSACTIONS ON PARALLEL AND DISTRIBUTED SYSTEMSSCIE4黄河PPS: Privacy-Preserving Strategyproof Social-Efficient Spectrum Auction MechanismsIEEE TRANSACTIONS ON PARALLEL AND DISTRIBUTED SYSTEMSSCIE5黄河Truthful Auction Mechanisms with Performance Guarantee in Secondary Spectrum MarketsIEEE TRANSACTIONS ON MOBILE COMPUTINGSCIE6张莉Learning similarity with cosine similarity ensembleINFORMATION SCIENCESSCIE7张莉Double adjacency graphs-based discriminant neighborhood embeddingPATTERN RECOGNITIONSCIE8张召Simple yet effective color principal and discriminant feature extraction for representing and recognizing color imagesNEUROCOMPUTINGSCIE9张召Automatic image annotation via compact graph based semi-supervised learningKNOWLEDGE-BASED SYSTEMSSCIE10张召Learning from normalized local and global discriminative information for semi-supervised regression and dimensionality reductionINFORMATION SCIENCESSCIE11张召Bilinear low-rank coding framework and extension for robust image recovery and feature representationKNOWLEDGE-BASED SYSTEMSSCIE12李直旭TRIP: An Interactive Retrieving-Inferring Data Imputation ApproachIEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERINGSCIE13刘纯平Learning topic of dynamic scene using belief propagation and weighted visual words approachSOFT COMPUTINGSCIE14严建峰Communication-efficient algorithms for parallel latent Dirichlet allocationSOFT COMPUTINGSCIE15张莉Time series prediction using sparse regression ensemble based on l(2)-l(1) problemSOFT COMPUTINGSCIE16张莉A fast gene selection method for multi-cancer classification using multiple support vector data descriptionJOURNAL OF BIOMEDICAL INFORMATICSSCIE17张莉Similarity-balanced discriminant neighbor embedding and its application to cancer classification based on gene expression dataCOMPUTERS IN BIOLOGY AND MEDICINESCIE18张召Bilinear Embedding Label Propagation: Towards Scalable Prediction of Image LabelsIEEE SIGNAL PROCESSING LETTERSSCIE19张召Graph Based Constrained Semi-Supervised Learning Framework via Label Propagation over Adaptive NeighborhoodIEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERINGSCIE20崔志明Active transfer learning of matching query results across multiple sourcesFRONTIERS OF COMPUTER SCIENCESCIE21樊建席Hamiltonian Properties of DCell NetworksCOMPUTER JOURNALSCIE22樊建席One-to-one disjoint path covers on alternating group graphsTHEORETICAL COMPUTER SCIENCESCIE23樊建席Approximate Algorithms for Vertex Cover Problems in WSN Topology DesignAD HOC & SENSOR WIRELESS NETWORKSSCIE24刘钊Embedding complete binary trees into parity cubesJOURNAL OF SUPERCOMPUTINGSCIE25吕强Improving protein-ligand docking with flexible interfacial water molecules using SWRosettaLigandJOURNAL OF MOLECULAR MODELINGSCIE26任子武A hybrid biogeography-based optimization method for the inverse kinematics problem of an 8-DOF redundant humanoid manipulatorFRONTIERS OF INFORMATION TECHNOLOGY & ELECTRONIC ENGINEERINGSCIE27王进An efficient communication relay placement algorithm for content-centric wireless mesh networksINTERNATIONAL JOURNAL OF COMMUNICATION SYSTEMSSCIE28吴健Immune Centroids Oversampling Method for Binary ClassificationCOMPUTATIONAL INTELLIGENCE AND NEUROSCIENCESCIE29熊德意Backward and trigger-based language models for statistical machine translationNATURAL LANGUAGE ENGINEERINGSCIE30许佳捷Efficient route search on hierarchical dynamic road networksDISTRIBUTED AND PARALLEL DATABASESSCIE31张莉Kernel sparse representation-based classifier ensemble for face recognitionMULTIMEDIA TOOLS AND APPLICATIONSSCIE32张莉Supervised locally linear embedding algorithm based on orthogonal matching pursuitIET IMAGE PROCESSINGSCIE33赵雷Trip Oriented Search on Activity TrajectoryJOURNAL OF COMPUTER SCIENCE AND TECHNOLOGYSCIE34仲兆准Consensus for First- and Second-Order Discrete-Time Multi-agent Systems with Delays Based on Model Predictive Control SchemesCIRCUITS SYSTEMS AND SIGNAL PROCESSINGSCIE35朱斐Human-level Moving Object Recognition from Traffic VideoCOMPUTER SCIENCE AND INFORMATION SYSTEMSSCIE36朱斐Protein interaction network constructing based on text mining and reinforcement learning with application to prostate cancerIET SYSTEMS BIOLOGYSCIE37朱艳琴Network Coding-Based Real-Time Retransmission Scheme in Wireless Sensor NetworksINTERNATIONAL JOURNAL OF DISTRIBUTED SENSOR NETWORKSSCIE38陈文亮Exploiting meta features for dependency parsing and part-of-speech taggingArtificial IntelligenceEI39段湘煜Bayesian constituent context model for grammar inductionIEEE/ACM Transactions on Speech and Language ProcessingEI40龚声蓉Topic tracking based on online belief propagationJisuanji Xuebao/Chinese Journal of ComputersEI41洪宇Implicit discourse relation inference based on the external relationJisuanji Yanjiu yu Fazhan/Computer Research and DevelopmentEI42洪宇Satisfaction prediction oriented quantitative mouse movement analysisJisuanji Xuebao/Chinese Journal of ComputersEI43孔芳A Joint Learning Approach To Explicit Discourse Parsing Via Structured PerceptronLecture Notes in Computer Science (including subseries Lecture Notes in Artificial IntelligenEI44李凡长Advances in the study of Lie group machine learning in recent ten yearsJisuanji Xuebao/Chinese Journal of ComputersEI45李凡长Path optimization algorithms for covering learningRuan Jian Xue Bao/Journal of SoftwareEI46李正华Joint optimization for Chinese POS tagging and dependency parsingIEEE/ACM Transactions on Speech and Language ProcessingEI47梁合兰Multiple service processes optimization with slack temporal constraints based on cooperative coevolution algorithmJisuanji Jicheng Zhizao Xitong/Computer Integrated Manufacturing Systems, CIMSEI48梁合兰Research on dynamic scheduling of scientific workows with temporal constraintsXitong Gongcheng Lilun yu Shijian/System Engineering Theory and PracticeEI49刘冠峰An evolution-based robust social influence evaluation method in Online Social NetworksLecture Notes in Computer Science (including subseries Lecture Notes in Artificial IntelligenEI50刘全Mergeable adaptive tile coding methodTongxin Xuebao/Journal on CommunicationsEI51刘全Collaborative Q-V value function approximation model based on adaptive normalized radial basis function networkJisuanji Xuebao/Chinese Journal of ComputersEI52刘全A novel fast Sarsa algorithm based on value function transferTien Tzu Hsueh Pao/Acta Electronica SinicaEI53刘全Experience replay for least-squares policy iterationIEEE/CAA Journal of Automatica SinicaEI54马小虎Cost-sensitive local discriminant embedding for face recognitionJisuanji Fuzhu Sheji Yu Tuxingxue Xuebao/Journal of Computer-Aided Design and Computer GraphiEI55马小虎Reversible grayscale watermarking using integer wavelet transform and multi-objective genetic algorithmJisuanji Fuzhu Sheji Yu Tuxingxue Xuebao/Journal of Computer-Aided Design and Computer GraphiEI56唐自立Generating strictly binary trees at random based on convex polygon triangulationsInternational Journal of Computer MathematicsEI57杨哲High-order description model of message propagation process in Ad hoc networkDongnan Daxue Xuebao (Ziran Kexue Ban)/Journal of Southeast University (Natural Science EditiEI58张广泉Method for modeling CPS based on open colored petri netJournal of Computational Information SystemsEI59张广泉Adaptive environment perception architecture model for internet of thingsJournal of Computational Information SystemsEI60张宏斌Cooperative forwarding model based on repeated game in Ad hoc networksDianzi Yu Xinxi Xuebao/Journal of Electronics and Information TechnologyEI61张莉Orthogonal matching pursuit-based incremental locally linear embedding algorithmInternational Journal of Autonomous and Adaptive Communications SystemsEI62李凡长Semi-supervised concept factorization for document clusteringInformation SciencesEI63赵雷Ranking based activity trajectory searchLecture Notes in Computer Science (including subseries Lecture Notes in Artificial IntelligenEI64赵朋朋Active multi-label learning with optimal label subset selectionLecture Notes in Computer Science (including subseries Lecture Notes in Artificial IntelligenEI65赵朋朋A serial sample selection framework for active learningLecture Notes in Computer Science (including subseries Lecture Notes in Artificial IntelligenEI66周国栋Chinese discourse segmentation based on punctuation marksInternational Journal of Signal Processing, Image Processing and Pattern RecognitionEI67崔志明Improving ontology matching with propagation strategy and user feedbackSEVENTH INTERNATIONAL CONFERENCE ON DIGITALCPCIS68龚声蓉A Sparse Pyramid Pooling StrategyCOMPUTER VISION, CCCV 2015, PT IICPCIS69郭芸Robust Dynamic Background Model with Adaptive Region Based on T2FS and GMMKNOWLEDGE SCIENCE, ENGINEERING AND MANAGEMECPCIS70孔芳A Convolutional Deep Neural Network for Coreference Resolution via Modeling Hierarchical FeaturesINTELLIGENCE SCIENCE AND BIG DATA ENGINEERICPCIS71李培峰Chinese Event Co-reference Resolution Based on Trigger Semantics and Combined FeaturesCHINESE LEXICAL SEMANTICS (CLSW 2015)CPCIS72李培峰An Approach to Recognize Temporal Relations Between Chinese EventsCHINESE LEXICAL SEMANTICS (CLSW 2015)CPCIS73李培峰A Chinese Event Argument Inference Approach Based on Entity Semantics and Event RelevanceCHINESE LEXICAL SEMANTICS (CLSW 2015)CPCIS74李寿山Emotion Corpus Construction on Microblog TextCHINESE LEXICAL SEMANTICS (CLSW 2015)CPCIS75李寿山Leveraging Interactive Knowledge and Unlabeled Data in Gender Classification with Co-trainingDATABASE SYSTEMS FOR ADVANCED APPLICATIONS,CPCIS76李寿山Interactive Gender Inference in Social MediaDATABASE SYSTEMS FOR ADVANCED APPLICATIONS,CPCIS77李寿山Joint Sentiment and Emotion Classification with Integer Linear ProgrammingDATABASE SYSTEMS FOR ADVANCED APPLICATIONS,CPCIS78李直旭HouseIn: A Housing Rental Platform with Non-redundant Information Integrated from Multiple SourcesWEB TECHNOLOGIES AND APPLICATIONS (APWEB 20CPCIS79李直旭NokeaRM: Employing Non-key Attributes in Record MatchingWEB-AGE INFORMATION MANAGEMENT (WAIM 2015)CPCIS80李直旭SmartInt: A Demonstration System for the Interaction Between Schema Mapping and Record MatchingWEB-AGE INFORMATION MANAGEMENT (WAIM 2015)CPCIS81梁合兰Dynamic Service Scheduling in Cloud Computing Using a Novel Hybrid Algorithm2015 IEEE 12TH INTERNATIONAL CONFERENCE ONCPCIS82刘安A Secure and Efficient Framework for Privacy Preserving Social RecommendationWEB TECHNOLOGIES AND APPLICATIONS (APWEB 20CPCIS83刘安PPS-POI-Rec: A Privacy Preserving Social Point-of-Interest Recommender SystemWEB TECHNOLOGIES AND APPLICATIONS (APWEB 20CPCIS84刘纯平Spatiotemporal Saliency Detection Using Slow Feature Analysis and Spatial Information for Dynamic ScenesINTELLIGENCE SCIENCE AND BIG DATA ENGINEERICPCIS85刘纯平Face Verification Across Aging Based on Deep Convolutional Networks and Local Binary PatternsINTELLIGENCE SCIENCE AND BIG DATA ENGINEERICPCIS86刘冠峰A Multiple Trust Paths Selection Tool in Contextual Online Social NetworksWEB TECHNOLOGIES AND APPLICATIONS (APWEB 20CPCIS87刘冠峰An Efficient Method to Find the Optimal Social Trust Path in Contextual Social GraphsDATABASE SYSTEMS FOR ADVANCED APPLICATIONS,CPCIS88刘全Intelligent Model Learning Based on Variance for Bayesian Reinforcement Learning2015 IEEE 27TH INTERNATIONAL CONFERENCE ONCPCIS89刘全ACIS: An Improved Actor-Critic Method for POMDPs with Internal State2015 IEEE 27TH INTERNATIONAL CONFERENCE ONCPCIS90刘全A Bayesian Sarsa Learning Algorithm with Bandit-Based MethodNEURAL INFORMATION PROCESSING, PT ICPCIS91王进An Efficient Short Null Keys Based Scheme for Securing Network Coding Against Pollution AttacksFRONTIERS IN INTERNET TECHNOLOGIESCPCIS92凌云Research of Zero-crossing detection for Sensorless BLDC motorPROCEEDINGS OF THE 2015 INTERNATIONAL CONFECPCIS93吴健Multi-Label Active Learning with Label Correlation for Image Classification2015 IEEE INTERNATIONAL CONFERENCE ON IMAGECPCIS94吴健Semi-automatic Labeling with Active Learning for Multi-label Image ClassificationADVANCES IN MULTIMEDIA INFORMATION PROCESSICPCIS95吴健Immune Centroids Over-Sampling Method for Multi-Class ClassificationADVANCES IN KNOWLEDGE DISCOVERY AND DATA MICPCIS96吴娴A QoS-Constrained Scheduling for Access Requests in Cloud StoragePROCEEDINGS OF THE 2015 10TH IEEE CONFERENCCPCIS97许佳捷On Efficient Passenger Assignment for Group TransportationDATABASE SYSTEMS FOR ADVANCED APPLICATIONS,CPCIS98许佳捷Efficient Trip Planning for Maximizing User SatisfactionDATABASE SYSTEMS FOR ADVANCED APPLICATIONS,CPCIS99严建峰A Comparative Study on Parallel LDA Algorithms in MapReduce FrameworkADVANCES IN KNOWLEDGE DISCOVERY AND DATA MICPCIS100张莉Time Series Classification based on Multi-Codebook Piecewise Vector Quantized Approximation2015 IEEE 27TH INTERNATIONAL CONFERENCE ONCPCIS101张莉Multiple SVM-RFE for Multi-class Gene Selection on DNA Microarray Data2015 INTERNATIONAL JOINT CONFERENCE ON NEURCPCIS102张莉Similarity Learning Based on Multiple Support Vector Data Description2015 INTERNATIONAL JOINT CONFERENCE ON NEURCPCIS103张莉Comparison of Auto-encoders with Different Sparsity Regularizers2015 INTERNATIONAL JOINT CONFERENCE ON NEURCPCIS104张莉Filtering SAR imagery for edge detection using support value transform2015 INTERNATIONAL JOINT CONFERENCE ON NEURCPCIS105张莉A fast approximation algorithm for 1-norm SVM with squared loss2015 INTERNATIONAL JOINT CONFERENCE ON NEURCPCIS106张文哲Layered Negotiation-Based Self-protection for Wireless Sensor NetworksADVANCES IN WIRELESS SENSOR NETWORKSCPCIS107张召L1-Norm Driven Semi-Supervised Local Discriminant Projection for Robust Image Representation2015 IEEE 27TH INTERNATIONAL CONFERENCE ONCPCIS108张召Projective Label Propagation by Label EmbeddingCOMPUTER ANALYSIS OF IMAGES AND PATTERNS, CCPCIS109赵雷Discovering Organized POI Groups in a CityDATABASE SYSTEMS FOR ADVANCED APPLICATIONS,CPCIS110赵朋朋EPEMS: An Entity Matching System for E-Commerce ProductsWEB TECHNOLOGIES AND APPLICATIONS (APWEB 20CPCIS111赵朋朋TK-SK: Textual-Restricted K Spatial Keyword Query on Road NetworksDATABASES THEORY AND APPLICATIONSCPCIS112赵朋朋Effective Spatial Keyword Query Processing on Road NetworksDATABASES THEORY AND APPLICATIONSCPCIS113赵朋朋Batch Mode Active Learning for Networked Data with Optimal Subset SelectionWEB-AGE INFORMATION MANAGEMENT (WAIM 2015)CPCIS114赵朋朋RPCV: Recommend Potential Customers to Vendors in Location-Based Social NetworkWEB-AGE INFORMATION MANAGEMENT (WAIM 2015)CPCIS115赵朋朋Effective Sampling of Points of Interests on Maps Based on Road NetworksWEB-AGE INFORMATION MANAGEMENT (WAIM 2015)CPCIS116赵朋朋Scalable Top-k Spatial Image Search on Road NetworksDATABASE SYSTEMS FOR ADVANCED APPLICATIONS,CPCIS117钟宝江A LOCATION-AWARE SCALE-SPACE METHOD FOR SALIENT OBJECT DETECTION2015 IEEE INTERNATIONAL CONFERENCE ON IMAGECPCIS
+
+教学辅助平台
+学院经费管理系统（校内）
+科研成果申报平台（校内）
+省级重点实验室
+计算机教学网（校内）
+自然语言处理实验室
+
+Copyright 苏州大学计算机科学与技术学院 2018 All Rights Reserved 苏州市十梓街1号
+苏ICP备-10229414  苏公网安备 32050802010530号
+
+link:
+ /main.htm
+首 页 http://scst.suda.edu.cn/main.htm
+学院概况 /11195/list.htm
+学院简介 /11238/list.htm
+历史沿革 /11241/list.htm
+现任领导 /11240/list.htm
+机构设置 /11239/list.htm
+办学资源 /11242/list.htm
+联系方式 /11243/list.htm
+学科建设 /11196/list.htm
+江苏省优势学科 /11244/list.htm
+博士点 /11245/list.htm
+硕士点 /11246/list.htm
+实验室安全 /11247/list.htm
+师资队伍 /11197/list.htm
+师资概况 /11248/list.htm
+教职工名单 /11249/list.htm
+导师简介 /11250/list.htm
+兼职师资 /11251/list.htm
+科学研究 /11198/list.htm
+研究中心 /yjzx/list.htm
+自然语言处理研究中心 /28250/list.htm
+机器学习与图像处理研究中心 /28251/list.htm
+数据科学与工业软件研究中心 /28252/list.htm
+网络科学与工程研究中心 /28253/list.htm
+人工智能研究院 /28254/list.htm
+嵌入式技术及系统能力培养研究中心 /28255/list.htm
+科研机构 /11253/list.htm
+科研项目 /11254/list.htm
+科研论文 /11255/list.htm
+知识产权 /11256/list.htm
+科研政策 /11257/list.htm
+人才培养 /11199/list.htm
+博士生 /11229/list.htm
+硕士生 /11230/list.htm
+本科生 /11231/list.htm
+人才培养方案 /25067/list.htm
+课程教学大纲 /25068/list.htm
+图灵班 /11234/list.htm
+国际交流 /gjjl/list.htm
+学生工作 /11200/list.htm
+工作队伍 /28212/list.htm
+学工通知 /11275/list.htm
+学工新闻 /xgxw/list.htm
+规章制度 /28213/list.htm
+志愿服务 /28216/list.htm
+学生组织 /28218/list.htm
+勤工助学 /28219/list.htm
+心理健康 /28220/list.htm
+职业规划 /28221/list.htm
+成长陪伴 /czpb/list.htm
+党群工作 /11201/list.htm
+基层组织 /jczz/list.htm
+规章制度 /11260/list.htm
+专题活动 /11262/list.htm
+分党校工作 /fdxgz/list.htm
+发展公示 /11264/list.htm
+关工委工作 /11265/list.htm
+工会工作 /ghgz/list.htm
+教学辅助平台 http://csteaching.suda.edu.cn
+学院经费管理系统（校内） http://192.168.125.2:9088/tm/Default.aspx
+科研成果申报平台（校内） http://42.244.43.76:8080/
+省级重点实验室 http://ciptlab.suda.edu.cn/
+计算机教学网（校内） http://sit.suda.edu.cn/
+自然语言处理实验室 http://nlp.suda.edu.cn/

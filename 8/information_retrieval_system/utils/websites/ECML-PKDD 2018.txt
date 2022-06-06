@@ -1,0 +1,209 @@
+title:
+ECML-PKDD 2018
+
+body:
+导航
+
+首 页
+
+学院概况
+
+学院简介
+
+历史沿革
+
+现任领导
+
+机构设置
+
+办学资源
+
+联系方式
+
+学科建设
+
+江苏省优势学科
+
+博士点
+
+硕士点
+
+实验室安全
+
+师资队伍
+
+师资概况
+
+教职工名单
+
+导师简介
+
+兼职师资
+
+科学研究
+
+研究中心
+
+自然语言处理研究中心
+
+机器学习与图像处理研究中心
+
+数据科学与工业软件研究中心
+
+网络科学与工程研究中心
+
+人工智能研究院
+
+嵌入式技术及系统能力培养研究中心
+
+科研机构
+
+科研项目
+
+科研论文
+
+知识产权
+
+科研政策
+
+人才培养
+
+博士生
+
+硕士生
+
+本科生
+
+人才培养方案
+
+课程教学大纲
+
+图灵班
+
+国际交流
+
+学生工作
+
+工作队伍
+
+学工通知
+
+学工新闻
+
+规章制度
+
+志愿服务
+
+学生组织
+
+勤工助学
+
+心理健康
+
+职业规划
+
+成长陪伴
+
+党群工作
+
+基层组织
+
+规章制度
+
+专题活动
+
+分党校工作
+
+发展公示
+
+关工委工作
+
+工会工作
+
+ECML-PKDD 2018
+发布者：发布时间：2017-12-22浏览次数：302
+
+ECML-PKDD 2018 : European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 					     				Link: http://www.ecmlpkdd2018.org   				                																When 																Sep 10, 2018 - Sep 14, 2018   																Where 																Dublin, Ireland   																Abstract Registration Due  Apr 5, 2018   																Submission Deadline  Apr 12, 2018   																Notification Due  Jun 14, 2018   																Final Version Due  Jun 29, 2018           																      Categories    machine learning   data mining   knowledge discovery   databases                				     					  					Call For Papers     					CONFERENCE TRACK 					Submissions are solicited for the 2018 edition of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2018). The conference provides an international forum for the discussion of the latest high-quality research results in all areas related to machine learning and knowledge discovery in databases. The 2018 conference will take place in Dublin, Ireland, 10‐14 September 2018.  					Submissions are invited for research papers in machine learning, knowledge discovery and data mining. Following the tradition of ECML-PKDD, we expect high-quality papers in terms of their scientific contribution, rigour, correctness, quality of presentation and reproducibility of experiments.  					SUBMISSION PROCESS 					Electronic submissions will be handled via Microsoft CMT. Please note that user accounts in each CMT conference are independent of other conferences, so you will need to create a new account.  					To submit a paper:  					Create an account and Log in to conference CMT submission site. Please note that user accounts in each CMT conference are independent of other conferences, so you will need to create a new account. 					Create a New Paper submission. 					Select the Conference Track. 					Complete the submission form by providing title, authors, one primary subject area, any number of secondary subject areas and a short abstract. The manuscript must be uploaded in pdf format.  					Before completing the submission, please make sure you have specified all your conflicts of interest (see details below).  					Abstracts need to be registered by Thursday April 5, 2018 and full submissions will be accepted until Thursday April 12, 2018.  					PAPER FORMAT 					Papers must be written in English and formatted according to the Springer LNCS guidelines. Author instructions, style files and copyright form can be downloaded here.  					The maximum length of papers is 16 pages in this format. Overlength papers will be rejected without review (papers with smaller page margins and font sizes than specified in the author instructions and set in the style files will also be treated as overlength).  					Up to 10 MB of additional materials (e.g. proofs, audio, images, video, data or source code) can be attached to the submission. Note that the reviewers and the program committee reserve the right to judge the paper solely on the basis of the 16 pages of the paper; looking at any additional material is at the discretion of the reviewers and is not required.  					ATTENDANCE AND PRESENTING 					For each accepted paper, at least one author must attend the conference and present the paper at the ECML-PKDD 2018 conference. The proceedings will be published after the conference and will include only the papers that authors have presented at the conference. Please make early arrangements for your travel and immigration (e.g., Visa) requirements. Please note that Ireland is not part of the Schengen space, and non-EU citizens may require a Visa to travel to Ireland (also see http://www.ecmlpkdd2018.org/visa-information/ ).  					AUTHORSHIP 					ECML-PKDD considers the author list submitted with the paper as final. No additions or deletions to this list may be made after paper submission, either during the review period, or in case of acceptance, at the final camera ready stage.  					CONFLICTS OF INTEREST 					During the submission process, enter the email domains of all institutions with which you have an institutional conflict of interest. You have an institutional conflict of interest if you are currently employed or have been employed at this institution in the past three years, or you have extensively collaborated with this institution within the past three years. Authors are also required to identify all Program Committee members and Area Chairs with whom they have a conflict of interest. Examples of conflict of interest include: co-author in the last five years, advisor, student or colleague.  					REVIEWING PROCESS 					The review process is single-blind (authors identities known to reviewers). Submissions will be evaluated on the basis of technical quality, novelty, potential impact, and clarity.  					DUAL SUBMISSION POLICY 					Papers submitted should report original work. ECML-PKDD 2018 will reject without review any paper that, at the date of April 12, 2018, is under review or has already been accepted for publication in a journal or another conference. Authors are also expected not to submit their papers elsewhere during the review period. The dual submissions policy applies during the following period: from April 12 to June 14, 2018.  					REPRODUCIBLE RESEARCH PAPERS 					Authors are encouraged to adhere to the best practices of Reproducible Research (RR), by making available data and software tools for reproducing the results reported in their papers. Authors may flag their submissions as RR and make software and data accessible to reviewers who will verify the accessibility of software and data. Links to data and code must be inserted in the final version of RR papers. For the sake of persistence and proper authorship attribution, we require the use of standard repository hosting services such as Dataverse, mldata.org, OpenML, figshare, Zenodo, etc. for data sets, and mloss.org, Bitbucket, GitHub, figshare (where it is possible to assign a DOI) etc. for source code. If data or code gets updated after the paper is published, it is important to enable researchers to access the versions that were used to produce the results reported in the paper. Authors who do not have a preferred repository should consult Springer Nature’s list of repositories and research data policy.  					PROCEEDINGS 					The conference proceedings will be published by Springer in the Lecture Notes in Computer Science series (LNCS). The proceedings will be published after the conference and will include only the papers that authors have presented at the conference. During the conference a version of the papers will be available for conference participants.  					IMPORTANT DATES  					Abstract submission deadline: Thursday, April 5, 2018 					Paper submission deadline: Thursday, April 12, 2018 					Author notification: Thursday, June 14, 2018 					Camera ready submission: Friday, June 29, 2018  					All deadlines expire on 23:59 AOE (Anywhere On Earth).  					OTHER NOTES 					In addition to regular conference submissions, papers can be submitted to other tracks: Applied Data Science; Demo; Ph.D.; Nectar; and Journal track. Accepted papers in all the tracks, including the Journal track, will be presented at the conference.  					For information about other tracks, please see the separate call for papers.  					CONTACT 					For any additional questions on the Conference track you can contact the Program Chairs (Michele Berlingerio, Francesco Bonchi, Thomas Gärtner, Georgiana Ifrim) at pc_chairs@ecmlpkdd2018.org.  					For general questions on the conference, please contact the General Chairs (Michele Berlingerio, Neil Hurley) at gc_chairs@ecmlpkdd2018.org.
+
+教学辅助平台
+学院经费管理系统（校内）
+科研成果申报平台（校内）
+省级重点实验室
+计算机教学网（校内）
+自然语言处理实验室
+
+Copyright 苏州大学计算机科学与技术学院 2018 All Rights Reserved 苏州市十梓街1号
+苏ICP备-10229414  苏公网安备 32050802010530号
+
+link:
+ /main.htm
+首 页 http://scst.suda.edu.cn/main.htm
+学院概况 /11195/list.htm
+学院简介 /11238/list.htm
+历史沿革 /11241/list.htm
+现任领导 /11240/list.htm
+机构设置 /11239/list.htm
+办学资源 /11242/list.htm
+联系方式 /11243/list.htm
+学科建设 /11196/list.htm
+江苏省优势学科 /11244/list.htm
+博士点 /11245/list.htm
+硕士点 /11246/list.htm
+实验室安全 /11247/list.htm
+师资队伍 /11197/list.htm
+师资概况 /11248/list.htm
+教职工名单 /11249/list.htm
+导师简介 /11250/list.htm
+兼职师资 /11251/list.htm
+科学研究 /11198/list.htm
+研究中心 /yjzx/list.htm
+自然语言处理研究中心 /28250/list.htm
+机器学习与图像处理研究中心 /28251/list.htm
+数据科学与工业软件研究中心 /28252/list.htm
+网络科学与工程研究中心 /28253/list.htm
+人工智能研究院 /28254/list.htm
+嵌入式技术及系统能力培养研究中心 /28255/list.htm
+科研机构 /11253/list.htm
+科研项目 /11254/list.htm
+科研论文 /11255/list.htm
+知识产权 /11256/list.htm
+科研政策 /11257/list.htm
+人才培养 /11199/list.htm
+博士生 /11229/list.htm
+硕士生 /11230/list.htm
+本科生 /11231/list.htm
+人才培养方案 /25067/list.htm
+课程教学大纲 /25068/list.htm
+图灵班 /11234/list.htm
+国际交流 /gjjl/list.htm
+学生工作 /11200/list.htm
+工作队伍 /28212/list.htm
+学工通知 /11275/list.htm
+学工新闻 /xgxw/list.htm
+规章制度 /28213/list.htm
+志愿服务 /28216/list.htm
+学生组织 /28218/list.htm
+勤工助学 /28219/list.htm
+心理健康 /28220/list.htm
+职业规划 /28221/list.htm
+成长陪伴 /czpb/list.htm
+党群工作 /11201/list.htm
+基层组织 /jczz/list.htm
+规章制度 /11260/list.htm
+专题活动 /11262/list.htm
+分党校工作 /fdxgz/list.htm
+发展公示 /11264/list.htm
+关工委工作 /11265/list.htm
+工会工作 /ghgz/list.htm
+http://www.ecmlpkdd2018.org http://www.ecmlpkdd2018.org/
+Categories http://www.wikicfp.com/cfp/allcat
+machine learning http://www.wikicfp.com/cfp/call?conference=machine%20learning
+data mining http://www.wikicfp.com/cfp/call?conference=data%20mining
+knowledge discovery http://www.wikicfp.com/cfp/call?conference=knowledge%20discovery
+databases http://www.wikicfp.com/cfp/call?conference=databases
+教学辅助平台 http://csteaching.suda.edu.cn
+学院经费管理系统（校内） http://192.168.125.2:9088/tm/Default.aspx
+科研成果申报平台（校内） http://42.244.43.76:8080/
+省级重点实验室 http://ciptlab.suda.edu.cn/
+计算机教学网（校内） http://sit.suda.edu.cn/
+自然语言处理实验室 http://nlp.suda.edu.cn/

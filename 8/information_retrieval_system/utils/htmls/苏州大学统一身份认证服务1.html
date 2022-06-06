@@ -1,0 +1,268 @@
+<!DOCTYPE html >
+<html style="height: 100%">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+    <title>苏州大学统一身份认证服务</title>
+    <link rel="stylesheet" type="text/css" href="/cas/resources/rFAm6jTNC0/caslogin/cas_login_new.css;jsessionid=9C5363899F8A2346A4FF8ACD46B62BBB.TomcatE" />
+    <!-- <link rel="stylesheet" type="text/css" href="caslogin/cas_login_new.css" /> -->
+    <script type="text/javascript" src="/cas/resources/rFAm6jTNC0/caslogin/polyfill.js;jsessionid=9C5363899F8A2346A4FF8ACD46B62BBB.TomcatE"></script>
+    <script type="text/javascript" src="/cas/resources/rFAm6jTNC0/caslogin/vue.min.js;jsessionid=9C5363899F8A2346A4FF8ACD46B62BBB.TomcatE"></script>
+    <script type="text/javascript" src="/cas/resources/rFAm6jTNC0/caslogin/axios.min.js;jsessionid=9C5363899F8A2346A4FF8ACD46B62BBB.TomcatE"></script>
+    <!-- <script src="caslogin/polyfill.js"></script>
+    <script src="caslogin/vue.min.js"></script>
+    <script src="caslogin/axios.min.js"></script> -->
+</head>
+
+<body style="height: 100%">
+    <input class="for-form" type="hidden" name="themeKey" value="rFAm6jTNC0" />
+    <div class="outter-wrapper1 login-web" id="appppps" style="display: none;">
+        <div class="header">
+            <div class="pc-logo">
+            </div>
+            <div class="pc-href">
+                <a href="http://my.suda.edu.cn/" target="_blank">信息门户</a>
+                <a href="http://a.suda.edu.cn/" target="_blank">网关登录</a>
+            </div>
+        </div>
+        <div class="main">
+            <div class="toggleway" @click="handleChangeLoginType" :style=" {width: '66px',  position: 'absolute',  height: '50px',  cursor: 'pointer',  right: '10px',  top: '10px', background: 'url('+loginTypeImg+')' + ' no-repeat'}">
+            </div>
+            <div class="login-wrapper" v-if="!isWebScan">
+                <form id="fm1" method="post" class="caslogin">
+                    <div class="login-title">
+                        <span>统一身份认证·</span>登录
+                    </div>
+                    <div class="login-info subtitle"></div>
+
+                    <div class="name-wrapper" style="margin-top: 40px">
+                        <div>
+                            <input placeholder="用户名" id="username" name="username" type="text">
+                        </div>
+
+                    </div>
+                    <div class="name-wrapper" style="margin-top: 38px">
+                        <div>
+                            <input placeholder="密码" name="password" id="password" autocomplete="off" type="password">
+                        </div>
+                    </div>
+                    <div class="name-wrapper captcha-validate">
+                    </div>
+                    <div class="forget-wrapper">
+                        <!-- <a
+                                    href="/sso/external/static/about_bind"
+                                    class="stuno"
+                                    >领取学号</a> -->
+                        <a href="/sso/user/forgot" class="forget">忘记密码 ？</a>
+                    </div>
+                    <p class="showMessage" id="showMessage"></p>
+                    <span id="errorcode" class="errorerror" value=""></span>
+                    <input type="hidden" name="pid" value="CAS_pybgqgcg" />
+                    <span id="errormes" class="errorerror" value=""></span>
+                    <input type="hidden" name="source" id="login-type" value="cas">
+                    <input type="hidden" name="execution" value="e1s1">
+                    <input type="hidden" name="_eventId" value="submit">
+                    <input type="hidden" name="lt" value="LT-571015-D0Pq9ndcygWir3fT0xjKjsQbd3COvU">
+                    <div>
+                      <button class="login-btn login-btn-web">登录</button>
+                    </div>
+                    <div class="other-link other-login ">
+                        <a href="" class="aaa" style="text-decoration: none; color: black">如果没有统一身份认证账户请从这里登录</a>
+                    </div>
+                </form>
+            </div>
+
+            <div class="way scan-way login-wrapper" :class="isWebScan?'showscan':''" v-else>
+                <div class="login-title">
+                    <span>统一身份认证·</span>登录
+                </div>
+                <div class="wechat-scan" style="margin-top: 40px">
+                    <div class="wechat-wrap">
+                        <div id="wechat-qrcode" ref="qrCodeUrl"></div>
+                        <div class="wechat-exceed" v-if="isExceed">
+                            <i class="refresh-cion"></i>
+                            <div>二维码已过期</div>
+                            <div class="refreshqr" v-on:click="creatQrCode()">点击刷新</div>
+                        </div>
+                    </div>
+                    <p class="showMessage wechat-mes">{{wechatMessage}}</p>
+                    <div class="wechat-hint" style="margin-top: 16px">打开微信App扫一扫登录</div>
+                </div>
+            </div>
+        </div>
+        <div class="footers">
+            <a href="/sso/external/static/about_platform" class="abouts">
+                        关于统一身份认证
+                    </a>
+            <div class="right">
+                信息化建设与管理中心 版本所有©2021
+            </div>
+        </div>
+    </div>
+    <div class="login-mobile" style="display: none;">
+        <div class="mobile-logo">
+        </div>
+        <form style="margin-top: 90px" id="fm1-phone" method="post" class="caslogin">
+            <div class="login-title" style="margin-top: -50px">
+                统一身份认证·登录
+            </div>
+            <div class="login-info subtitle">
+
+            </div>
+            <div class="name-wrapper" style="margin-top: 30px">
+                <div>
+                    <input placeholder="用户名" style="background-color:transparent" id="username-phone" name="username" type="text">
+                </div>
+
+            </div>
+            <div class="name-wrapper" style="margin-top: 30px">
+                <div>
+                    <input placeholder="密码" style="background-color:transparent" name="password" id="password-phone" autocomplete="off" type="password">
+                </div>
+            </div>
+            <div class="name-wrapper captcha-validate">
+            </div>
+            <div class="forget-wrapper-mobile">
+                <a href="/sso/user/forgot" class="forget" style="font-size: 12px">忘记密码 ？</a>
+            </div>
+            <p class="showMessage" style="font-size: 12px" id="showMessage"></p>
+            <span id="errorcode" class="errorerror" value=""></span>
+            <input type="hidden" name="pid" value="CAS_pybgqgcg" />
+            <span id="errormes" class="errorerror" value=""></span>
+            <input type="hidden" name="source" id="login-type" value="cas">
+            <input type="hidden" name="execution" value="e1s1">
+            <input type="hidden" name="_eventId" value="submit">
+            <input type="hidden" name="lt" value="LT-571015-D0Pq9ndcygWir3fT0xjKjsQbd3COvU">
+
+            <div>
+              <button class="login-btn mobile login-btn-mobile">登录</button>
+            </div>
+            <div class="other-link other-login otherlogin">
+                <a href="" class="aaa" style="text-decoration: none; color: black">如果没有统一身份认证账户请从这里登录</a>
+            </div>
+        </form>
+        <div style="position: absolute;
+				font-size: 8px;
+				bottom: 3px; left: 50%;transform: translateX(-50%);">
+            <div style="color: #c7000b;">
+                关于统一身份认证
+            </div>
+            <div>
+                信息化建设与管理中心版本所有©2021
+            </div>
+        </div>
+    </div>
+    <script>
+        var test = new Vue({
+            el: "#appppps",
+            data: {
+                isWebScan: false,
+                isExceed: false,
+                wechatMessage: '',
+                loginTypeImg: './resources/' + document.querySelector('input[name="themeKey"]').value + '/images/scan.png',
+            },
+            methods: {
+                goredirect: function(golink) {
+                    var redirectSession = window.sessionStorage.getItem(this.randowKey);
+                    if (redirectSession) {
+                        window.location.href = redirectSession;
+                    } else {
+                        window.location.href = golink;
+                    }
+                },
+                setinterval: function(that, token, exp) {
+                    var i = 0;
+                    var maxexp = Math.floor(exp / 1 / 5) ? Math.floor(exp / 1 / 5) : 180;
+                    // var maxexp =5;
+                    var settime = setInterval(function() {
+                        i++;
+                        if (i > maxexp || !(that.iswechat)) { //最多循环180次,15分钟就停止发起
+                            //过期加蒙层
+                            that.isExceed = true;
+                            clearInterval(settime);
+                            that.wechatMessage = '二维码已失效，请重新加载。'
+                        } else { //正常循环的时候
+                            axios.post('/sso/wechat/login?token=' + token + '&pid=' + document.querySelector('input[name="pid"]').value).then(
+                                function(res) {
+                                    if (res.data.errno == 0) { //返回正常
+                                        // 回调跳转
+                                        if (res.data.entities && res.data.entities[0] && res.data.entities[0].redirect_uri) {
+                                            that.goredirect(res.data.entities[0].redirect_uri);
+                                        } else {
+                                            that.goredirect('/sso/login');
+                                        }
+                                    }
+                                })
+                        }
+                    }, 5000);
+                },
+                creatQrCode: function() {
+                    this.isExceed = false;
+                    this.wechatMessage = "";
+                    var vuethat = this;
+                    axios.get('/sso/qrcode?pid=' + document.querySelector('input[name="pid"]').value).then(
+                        function(res) {
+                            if (res.data.code == 'INVALID_TENANT') {
+                                window.location.href = res.data.redirect_uri
+                                return
+                            }
+                            if (res.data.qrcode) {
+                                setTimeout(function() {
+                                    vuethat.$refs.qrCodeUrl.innerHTML = "";
+                                    var qrcode = new QRCode(document.getElementById('wechat-qrcode'), {
+                                        width: 180,
+                                        height: 180
+                                    });
+                                    qrcode.makeCode(res.data.qrcode);
+                                    // 去除包裹层title
+                                    vuethat.$refs.qrCodeUrl.removeAttribute('title');
+                                    // 循环调用
+                                    vuethat.setinterval(vuethat, res.data.token, res.data.expiresIn)
+                                }, 200)
+                            } else {
+                                vuethat.wechatMessage = '二维码生成失败，请使用帐号密码登录。'
+                            }
+                        })
+                },
+                handleChangeLoginType: function() {
+                    if (!this.isWebScan) {
+                        this.changeWay(1)
+                        this.creatQrCode()
+                        this.iswechat = true
+                        this.wechatMessage = ''
+                            // this.loginTypeImg = `./resources/${document.querySelector('input[name="themeKey"]').value}/images/account.png`
+                        this.loginTypeImg = './resources/' + document.querySelector('input[name="themeKey"]').value + '/images/account.png'
+                        return
+                    }
+                    this.changeWay(0)
+                    this.loginTypeImg = './resources/' + document.querySelector('input[name="themeKey"]').value + '/images/scan.png'
+                        // this.loginTypeImg = `./resources/${document.querySelector('input[name="themeKey"]').value}/images/scan.png`
+                },
+                changeWay: function(type) {
+                    if (type) {
+                        this.isWebScan = true
+                    } else {
+                        this.isWebScan = false;
+                    }
+                }
+            },
+            mounted: function() {
+                var that = this;
+                that.isWebScan = false;
+                that.isExceed = false;
+            }
+        })
+    </script>
+    <script type="text/javascript" src="/cas/resources/rFAm6jTNC0/caslogin/jquery.min.js;jsessionid=9C5363899F8A2346A4FF8ACD46B62BBB.TomcatE"></script>
+    <script type="text/javascript" src="/cas/resources/rFAm6jTNC0/caslogin/qrcode.js;jsessionid=9C5363899F8A2346A4FF8ACD46B62BBB.TomcatE"></script>
+    <script type="text/javascript" src="/cas/resources/rFAm6jTNC0/caslogin/jquery-1.11.0.js;jsessionid=9C5363899F8A2346A4FF8ACD46B62BBB.TomcatE"></script>
+    <script type="text/javascript" src="/cas/resources/rFAm6jTNC0/caslogin/jquery.cookie.js;jsessionid=9C5363899F8A2346A4FF8ACD46B62BBB.TomcatE"></script>
+    <script type="text/javascript" src="/cas/resources/rFAm6jTNC0/caslogin/custom.js;jsessionid=9C5363899F8A2346A4FF8ACD46B62BBB.TomcatE"></script>
+    <!-- <script src="caslogin/jquery-1.11.0.js"></script>
+    <script src="caslogin/jquery.cookie.js"></script>
+    <script src="caslogin/custom.js"></script> -->
+</body>
+
+</html>

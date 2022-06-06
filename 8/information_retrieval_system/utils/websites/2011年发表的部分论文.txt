@@ -1,0 +1,204 @@
+title:
+2011年发表的部分论文
+
+body:
+导航
+
+首 页
+
+学院概况
+
+学院简介
+
+历史沿革
+
+现任领导
+
+机构设置
+
+办学资源
+
+联系方式
+
+学科建设
+
+江苏省优势学科
+
+博士点
+
+硕士点
+
+实验室安全
+
+师资队伍
+
+师资概况
+
+教职工名单
+
+导师简介
+
+兼职师资
+
+科学研究
+
+研究中心
+
+自然语言处理研究中心
+
+机器学习与图像处理研究中心
+
+数据科学与工业软件研究中心
+
+网络科学与工程研究中心
+
+人工智能研究院
+
+嵌入式技术及系统能力培养研究中心
+
+科研机构
+
+科研项目
+
+科研论文
+
+知识产权
+
+科研政策
+
+人才培养
+
+博士生
+
+硕士生
+
+本科生
+
+人才培养方案
+
+课程教学大纲
+
+图灵班
+
+国际交流
+
+学生工作
+
+工作队伍
+
+学工通知
+
+学工新闻
+
+规章制度
+
+志愿服务
+
+学生组织
+
+勤工助学
+
+心理健康
+
+职业规划
+
+成长陪伴
+
+党群工作
+
+基层组织
+
+规章制度
+
+专题活动
+
+分党校工作
+
+发展公示
+
+关工委工作
+
+工会工作
+
+2011年发表的部分论文
+发布者：发布时间：2012-02-15浏览次数：172
+
+序号作者题名刊名发表时间1樊建席Efficient unicast in bijective connection networks with the restricted faulty node set Information Sciences 2011.62王喜/樊建席Embedding meshes into twisted-cubesInformation Sciences 2011.73张莉Density-induced margin support vector machinesPattern Recognition2011.74张莉Generalized Nonlinear Discriminant Analysis and Its Small Sample Size ProblemsNeurocomputing2011.15周国栋Tree kernel-based semantic role labeling with enriched parse tree structureInformation Processing and Management2011.36樊建席An efficient fault-tolerant routing algorithm in bijective connection networks with restricted faulty edgesTheoretical Computer Science 2011.77周吴军/樊建席The spined cube: A new hypercube variant with smaller diameterInformation Processing Letters2011.68李寿山Multi-domain Sentiment Classification with Classifier CombinationJournal of Computer Science and Technology (JCST)2011.19周国栋Learning noun phrase anaphoricity in coreference resolution via label propagationJournal of Computer Science and Technology2011.110周国栋Kernel-based semantic relation detection and classification via enriched parse tree structureJournal of Computer Science and Technology2011.111李寿山Semi-supervised learning for Imbalanced Sentiment Classificationthe 22nd International Joint Conference on Artificial Intelligence (IJCAI-2011)2011.712孔芳Improve Tree Kernel-based Event Pronoun Resolution with Competitive InformationIJCAI20112011.113李寿山Imbalanced Sentiment ClassificationIJCAI20112011.1014贡正仙Cache-based Document-level Statistical Machine TranslationEMNLP 20112011.715洪宇using cross-entity inference to improve event extractionACL 2011 2011.1116钱龙华the Fifth International Joint Conference on Natural Language Processing (IJCNLP"2011)IJCNLP"20112011.1117张莉 Ordinal prior knowledge-based ranking SVMProceedings of 3rd International Conference on Machine Learning and Computing2011.218刘纯平Extraction Salience Structure of Dot Cloud using Closeness and Distribution-based Tensor VotingJournal of Computer Science Applications and Education2011.119吴健Moving Object Classification Method Based on SOM and K-meansJournal of Computers2011.320吴健Adaptive Detection of Moving Vehicle Based on On-line ClusteringJournal of Computers2011.421吴健A Clustering-based Motion Understanding Method for Traffic VehicleJournal of Computational Information Systems2011.522吴健A Video Vehicle Tracking Algorithm Based on Polar Fourier DescriptorLecture Notes in Artificial Intelligence2011.723张鞠涛/龚声蓉The GPU-based parallel implementation of phase information extraction of multi-view imagesAdvanced Materia1s Research2011.524张乐/刘全A Bit-decomposition Adaptive Watermarking Algorithm Based on the Multi-Polar MaskKey Engineering Materials2011.625徐云龙Research on Care of Postoperative Patient based on Rough Sets TheoryInternational Journal of Computer Applications 2011.526张广泉Mismatch Detection of Timed Asynchronous Web ServicesIEEE Asia-Pacific Services Computing Conference  20112011.1227张莉Support vector novelty detection in hidden spaceJournal of Computational Information Systems2011.1228王晓燕/刘全Double Elite Co-evolutionary Genetic Algorithm.International Journal of Computational Science and Engineering2011.129傅启明/刘全Relevance feedback techniques and genetic algorithm for image retrieval based on multiple featuresInternational Journal of Modelling Identification and Control2011.130李军辉/周国栋Unified semantic role labeling for verbal and nominal predicates in Chinese languageACM Transaction on Asian Language Information Processing2011年3期31钱龙华Employing constituent dependency information for tree kernel-based semantic relation extraction between named entitiesACM Transaction on Asian Language Information Processing2011年3期32樊建席On reliable unicast and broadcast in bijective connection networks with the restricted node/edge faultsInternational Conference on Information Science and Technology (ICIST)2011.333杨政/刘纯平A Saliency Detection Model Based on Multi-feature FusionComputational Intelligence and Security (CIS). 20112011,1234王小鲍 /刘纯平Pedestrian Recognition Based on Saliency Detection and Karman Filter Algorithm in Aerial VideoComputational Intelligence and Security (CIS). 20112011,1235刘纯平 Pedestrian Recognition Based on Saliency Detection andKalman Filter Algorithm in Aerial VideoComputational Inteligence and Security2011.1236方静/崔志明Color identifying of vehicles based on color container and BP network BMEI 20112011.137辛洁/崔志明/A Solution of Web Crawling Bottlenecks Based on Virtualization TechnologyICCNT 20112011.838张广铭/崔志明A Novel Image Fusion Method using Beamlet Transform and Graph CutsKey Engineering Materials2011.1139吴健Research on Vehilce Tracking Algorithm Using Contourlet TransformIEEE ITSC 20112011.940陈冬火FormalTCGenerator: a Tool of Automatically GeneratingTest Cases for Infinite States Reactive SystemsThe 15th IASTED International Conference on Software Engineering and Applications(SEA2011)2011.1241纪其进One More Server for Supporting Random Seeking in a P2P Video-on-Demand SystemICOEIS 20112011.742纪其进Utility-Maximizing Task Scheduling for Partially Observable Multiagent SystemsCAR 20112011.1143李培峰A Clustering and Ranking Based Approach for Multi-document Event FusionIEEE SNPD 2011201144李培峰A Dependency Tree Based Approach for Sentence-Level Sentiment ClassificationIEEE SNPD 2011201145李培峰An Approach of Chunk-based Task Runtime Prediction for Self-Scheduling on Multi-core Desk GridJCP201146杨华智/李培峰The Application Layer Protocol Identification Method Based on Semisupervised LearningIEEE SNPD 2011201147徐凡/朱巧明Detecting Text Similarity over Chinese Research Papers Using MapReduceIEEE SNPD 2011201148王仲庆/周国栋Imbalanced Sentiment Classification with Multi-Strategy Ensemble LearningIALP 2011201149张宁/李培峰Research of Event Pronoun ResolutionIALP 2011201150张玉华An Approach of Mining Parallelizable Points for Multi-core ComputingiEEE ICCNT 20112011.251刘贞/李蓥Dual Channel Competition (DCC) Scheme for Neighbor Discovery in Wireless NetworksICCSNT 20112011.1252陈浩/刘全An Ant Colony Optimization Algorithm Based on Dynamic Evaporation Rare Fitting3rd International Conference on Communication Software and Networks, 20112011.553陈世刚/马小虎AdaBoost Face Detection Based on Haar-like Intensity Features and Multi-threshold Features 2011 International Conference on Multimedia and Signal Processing2011.554谭延琪/马小虎Contourlet-Based Feature Extraction with LLP for Face Recognition2011 International Conference on Multimedia and Signal Processing2011.555钱龙华2011 International Conference on Asian Language Processing(IALP"2011)COLIPS2011.1156王宏Research on Fusion of China’s Higher Information Technology Education and Teaching with Information Technology enterprise Innovation The 2nd International Conference on E-Business & E-Government (ICEE 2011)2011.557王岩Construction of Independent Spanning Trees on Twisted-CubesCSAE20112011.258王岩An Algorithm to Find Optimal Independent Spanning Trees on Twisted-cubesPAAP 20112011.1259吴瑾The paging mechanism and MMC module in XS128 FlashICMEE20112011.960吴瑾Protection Mechanisms And Security Operations Of XS128 Flash MemoryICEIE20112011.961王宜怀Programming Flash Memory in Freescale S08/S12/ColdFire MCUs  Family. Published by InTech 2011201162王宜怀Programming Flash Memory in Freescale S12XS Serial MCUsIEEE Computer Society,2011201163吴娴Scheduling Model of Access Requests in Open Storage Architecturesin proceedings of 6th International Conference on Computer Science & Education2011.864李菲菲/徐汀荣Energy-aware data gathering and routing protocol based on doublecluster-heads2011 International Conference on Consumer Electronics, Communications and Networks (CECNet)201165张小倩/周国栋Polarity Shifting:Corpus Construction and AnalysisIALP  20112011.1166张广泉Specification and Verification of Data and Time in Web Service CompositionWISM20112011.967张广泉Model Checking for Asynchronous Web Service Composition Based on XYZ/ADLWISM20112011.968张广泉Exploration and Practice of Software Engineering Core Curriculum Construction ICCSE20112011.869王喜燕/张广泉等A Method for Detecting Mismatch of Time-Aware Web Services Based on SMTICCSE20112011.870吴剑峰/张广泉Counterexample Generation and Representation in Model Checking for Probabilistic Timed Automata,ICCSE20112011.871朱稷涵/张广泉Verifying Web Services Composition Based on LTL and Colored Petri Net,ICCSE20112011.872陆栋梁/张宏斌Evolutionary analysis of effective time steps in well-mixed multi-agent snowdrift gameICMSIC20112011.973张莉Nonlinear Nearest Subspace Classifier,ICONIP 20112011.1174洪宇Factual or Satisfactory: What Search Results are Better?PACLIC 2011 2011.1275冯艳卉/姚建民using html tags to improve parallel resources extractionIALP 2011 2011.1176张剑峰/姚建民Thread Cleaning and Merging for Microblog Topic DetectionIJCNLP 2011 2011.1177张志强A fuzzy analytic hierarchy process method for examination mode evaluationEnergy Procedia 2011.778张志强Network intrusion detection based on robust wavelet RVM algorithmJournal of Information and Computational Science 2011.779章晓芳An improved metric for test case prioritization WISA 20112011.1180朱晓旭Design and Implementation of Input Method Based on SCIM. The 2011 International Conference on Computational Intelligence and Software Engineering2011.181周梅晨/朱斐Protein Biological Function Clustering with GO and KO2011, 5th International Conference on Bioinformatics and Biomedical Engineering2011.582王健/朱斐Biological entity boundary detection using ME mode2011 International Conference on Computer and Management2011.583琚政斐/朱斐Named entity recognition from biomedical text using SVM2011, 5th International Conference on Bioinformatics and Biomedical Engineering2011.584徐亮亮/朱斐Protein protein interaction visualization using VisANT2011 International Conference on Computer Science and Service System2011.685汪建/朱斐Biological terms boundary identification by maximum entropy model Proceedings of the 2011 6th IEEE Conference on Industrial Electronics and Applications, ICIEA 20112011.586林慧/朱斐On Intact and Inparanoid2011 IEEE 3rd International Conference on Communication Software and Networks, ICCSN 20112011.687朱斐Developing software using a novel event-condition-state pattern framework: Taking mobile input method system As A Case StudyJournal of Software2011.888朱斐Enriched format text categorization using a component similarity approachJournal of Software2011.989徐亮亮/朱斐A flexible visualization tool for interaction2011 IEEE 3rd International Conference on Communication Software and Networks2011.590琚政斐/朱斐Identifying biological terms from text by support vector machine Proceedings of the 2011 6th IEEE Conference on Industrial Electronics and Applications, ICIEA 20112011.591严建峰Ant colony optimization for wireless sensor networks routingProceedings of the 2011 International Conference on Machine Learning and Cybernetics2011.692秦凯伟/李培峰Chinese Zero Anaphor Detection: Rule-based ApproachISKE20112011.593倪吉/李培峰Research on Cross-document Coreference of Chinese Person NameIALP20112011.594张宁/李培峰Research of Event Pronoun ResolutionIALP20112011.695高俊伟/李培峰Research of Noun Phrase Coreference ResolutionIALP20112011.696孔芳Combining Dependency and Constituent-based Syntactic Information for Anaphoricity Determination in Coreference ResolutionPaclic20112011.597孙涌Research and Implementation of Color Schemes in Color Digital Jacquard CADKey Engineering Materials2011.498花岭/朱艳琴A Lightweight Model for Consuming Linked Data for Commercial Application3rd Internationl Conference on E-Business and Information System Security2011.599卞建军,朱艳琴A hybrid scheduling algorithm in P2P VoD2011 International Conference on Engineering and Information Management2011.4100张文哲Autonomous Target Interception using Hybrid SensorIntelligent Control&Automation2011.8101贡正仙Employing topic modeling for statistical machine translationCSAE 20112011.6102贡正仙Improve SMT with Source-Side “Topic-Document” DistributionsProceedings of the 13th Machine Translation Summit(MT Summit XIII)2011.9103杨凌云/吕强GPCR-Ligand Docking with Refining Receptor InterfaceMCCMB’20112011.7104张健/陈建明Design of standard managing system in clothes manufacturingICINA20112011.10105殷俊伟/陈建明The System Design of the Apparel’s Pattern Knowledge Database Oriented to Intelligent ManufactureTBIS 20112011.6106黄立/陆建德Hops Adaptive Algorithm for TCP Vegas in Mobile Ad Hoc NetworkMEC20112011.8107杨吉喆/陆建德Linked IPS on Octeon Multi-core Processor for New    Generation NetworkMEC2011IP Research on Routing Optimization2011.8108吴虎/陆建德Research on Routing Optimization in Nested NEMOICECC20112011.9109王玲玲/陆建德IPTV Quality Monitoring System Based on Hierarchical Feedback of RTCPICECC2011it2011.9110孙常龙/姚建民基于维基百科的未登录词译文挖掘计算机研究与发展2011年6期111刘全一种基于启发式奖赏函数的分层强化学习方法计算机研究与发展2011年12期112张侃/张广泉一种可信的CPS系统设计框架计算机研究与发展 2011年9期113李军辉/周国栋中文名词性谓词语义角色标注研究软件学报2011年8期114黄  旭/吕强一种用于蛋白质结构聚类的聚类中心选择算法自动化学报2011年6期115张广泉时间感知Web服务交互行为建模与失配检测方法研究电子学报2011年11期116张广泉基于XYZ/ADL的Web服务组合描述与验证电子学报2011年3期117范自立/李凡长一种选择标注分层流形学习算法模式识别与人工智能2011年5期118张书奎具有偏好随机游动能量均衡的数据传输算法通信学报2011年2期119周恩策/刘纯平基于时间窗的自适应核密度估计运动检测方法通信学报2011年3期120干 楠/龚声蓉基于张量投票的空域错误隐藏算法通信学报2011年10期121辛洁/崔志明基于MapReduce虚拟机的Deep Web数据源发现方法通信学报2011年7期122刘全最小状态变元平均奖赏的强化学习方法通信学报2011年1期123刘全基于角点特征的集合同步数字水印算法通信学报2011年4期124李  娇/刘全分布式数据库中基于局部CON模型的记录匹配方法通信学报2011年7期125李卫伟/刘纯平基于SSCL的模糊C均值图像分类方法中国图象图形学报2011年2期126傅启明/刘全遗传反馈的多特征图像检索中国图象图形学报2011年10期127吴方磊/朱巧明基于树核函数的中文语义角色分类研究中文信息学报2011年3期128倪吉/朱巧明基于可信度模型的中文人名识别研究中文信息学报2011年3期129刘兵/钱龙华依存信息在蛋白质关系抽取中的作用中文信息学报2011年2期130冯艳卉/姚建民基于搜索引擎的双语混合网页识别新方法中文信息学报2011年1期131陆玉清/姚建民基于上下文的真词错误检查及校对方法中文信息学报2011年1期132李绍燕/邓伟KL距离的变长马尔可夫模型识别人类剪接位点生物物理学报2011年8期133赵雅英/马小虎基于样本扩充和改进2DPCA的单样本人脸识别计算机应用2011年10期134王三虎/姚望舒基于SIFT和角点特征的商标检索算法计算机应用2011年7期135张悦/凌兴宏基于改进相似度传播算法的本体匹配计算机应用2011年9期136徐靖/ 周国栋中文名词性谓词语义角色标注的特征研究计算机应用2011年6期137李麟青/朱艳琴一种混合式BitTorrent流量检测方法计算机应用2011年12期
+
+教学辅助平台
+学院经费管理系统（校内）
+科研成果申报平台（校内）
+省级重点实验室
+计算机教学网（校内）
+自然语言处理实验室
+
+Copyright 苏州大学计算机科学与技术学院 2018 All Rights Reserved 苏州市十梓街1号
+苏ICP备-10229414  苏公网安备 32050802010530号
+
+link:
+ /main.htm
+首 页 http://scst.suda.edu.cn/main.htm
+学院概况 /11195/list.htm
+学院简介 /11238/list.htm
+历史沿革 /11241/list.htm
+现任领导 /11240/list.htm
+机构设置 /11239/list.htm
+办学资源 /11242/list.htm
+联系方式 /11243/list.htm
+学科建设 /11196/list.htm
+江苏省优势学科 /11244/list.htm
+博士点 /11245/list.htm
+硕士点 /11246/list.htm
+实验室安全 /11247/list.htm
+师资队伍 /11197/list.htm
+师资概况 /11248/list.htm
+教职工名单 /11249/list.htm
+导师简介 /11250/list.htm
+兼职师资 /11251/list.htm
+科学研究 /11198/list.htm
+研究中心 /yjzx/list.htm
+自然语言处理研究中心 /28250/list.htm
+机器学习与图像处理研究中心 /28251/list.htm
+数据科学与工业软件研究中心 /28252/list.htm
+网络科学与工程研究中心 /28253/list.htm
+人工智能研究院 /28254/list.htm
+嵌入式技术及系统能力培养研究中心 /28255/list.htm
+科研机构 /11253/list.htm
+科研项目 /11254/list.htm
+科研论文 /11255/list.htm
+知识产权 /11256/list.htm
+科研政策 /11257/list.htm
+人才培养 /11199/list.htm
+博士生 /11229/list.htm
+硕士生 /11230/list.htm
+本科生 /11231/list.htm
+人才培养方案 /25067/list.htm
+课程教学大纲 /25068/list.htm
+图灵班 /11234/list.htm
+国际交流 /gjjl/list.htm
+学生工作 /11200/list.htm
+工作队伍 /28212/list.htm
+学工通知 /11275/list.htm
+学工新闻 /xgxw/list.htm
+规章制度 /28213/list.htm
+志愿服务 /28216/list.htm
+学生组织 /28218/list.htm
+勤工助学 /28219/list.htm
+心理健康 /28220/list.htm
+职业规划 /28221/list.htm
+成长陪伴 /czpb/list.htm
+党群工作 /11201/list.htm
+基层组织 /jczz/list.htm
+规章制度 /11260/list.htm
+专题活动 /11262/list.htm
+分党校工作 /fdxgz/list.htm
+发展公示 /11264/list.htm
+关工委工作 /11265/list.htm
+工会工作 /ghgz/list.htm
+Information Processing Letters http://www.informatik.uni-trier.de/~ley/db/journals/ipl/ipl111.html#ZhouFJZ11
+教学辅助平台 http://csteaching.suda.edu.cn
+学院经费管理系统（校内） http://192.168.125.2:9088/tm/Default.aspx
+科研成果申报平台（校内） http://42.244.43.76:8080/
+省级重点实验室 http://ciptlab.suda.edu.cn/
+计算机教学网（校内） http://sit.suda.edu.cn/
+自然语言处理实验室 http://nlp.suda.edu.cn/

@@ -1,0 +1,206 @@
+title:
+PAKDD 2017 Call for Papers
+
+body:
+导航
+
+首 页
+
+学院概况
+
+学院简介
+
+历史沿革
+
+现任领导
+
+机构设置
+
+办学资源
+
+联系方式
+
+学科建设
+
+江苏省优势学科
+
+博士点
+
+硕士点
+
+实验室安全
+
+师资队伍
+
+师资概况
+
+教职工名单
+
+导师简介
+
+兼职师资
+
+科学研究
+
+研究中心
+
+自然语言处理研究中心
+
+机器学习与图像处理研究中心
+
+数据科学与工业软件研究中心
+
+网络科学与工程研究中心
+
+人工智能研究院
+
+嵌入式技术及系统能力培养研究中心
+
+科研机构
+
+科研项目
+
+科研论文
+
+知识产权
+
+科研政策
+
+人才培养
+
+博士生
+
+硕士生
+
+本科生
+
+人才培养方案
+
+课程教学大纲
+
+图灵班
+
+国际交流
+
+学生工作
+
+工作队伍
+
+学工通知
+
+学工新闻
+
+规章制度
+
+志愿服务
+
+学生组织
+
+勤工助学
+
+心理健康
+
+职业规划
+
+成长陪伴
+
+党群工作
+
+基层组织
+
+规章制度
+
+专题活动
+
+分党校工作
+
+发展公示
+
+关工委工作
+
+工会工作
+
+PAKDD 2017 Call for Papers
+发布者：发布时间：2016-10-11浏览次数：97
+
+Call for Papers     Important Dates      Paper submission due: 11:59:59 p.m. PST, October 30 (Sun), 2016     Notification to authors: January 13 (Fri), 2017     Camera-ready due: February 13 (Mon), 2017     Conference: May 23 (Tues) - 26 (Fri), 2017       Conference Scope    The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD) is a leading international conference in the areas of knowledge discovery and data mining (KDD). It provides an international forum for researchers and industry practitioners to share their new ideas, original research results, and practical development experiences from all KDD related areas, including data mining, data warehousing, machine learning, artificial intelligence, databases, statistics, knowledge engineering, visualization, decision-making systems, and the emerging applications.      Topics    The topics of relevance for the conference papers include but not limited to the following:      Theoretic foundations     Novel models and algorithms     Association analysis     Clustering     Classification     Statistical methods for data mining     Data pre-processing     Feature extraction and selection     Post-processing including quality assessment and validation     Mining heterogeneous/multi-source data     Mining sequential data     Mining spatial and temporal data     Mining unstructured and semi-structured data     Mining graph and network data     Mining social networks     Mining high dimensional data     Mining uncertain data     Mining imbalanced data     Mining dynamic/streaming data     Mining behavioral data     Mining multimedia data     Mining scientific data     Privacy preserving data mining     Anomaly detection     Fraud and risk analysis     Security and intrusion detection     Visual data mining     Interactive and online mining     Ubiquitous knowledge discovery and agent-based data mining     Integration of data warehousing, OLAP, and data mining     Parallel, distributed, and cloud-based high performance data mining     Opinion mining and sentiment analysis     Human, domain, organizational, and social factors in data mining     Applications to healthcare, bioinformatics, computational chemistry, finance, eco-informatics, marketing, gaming, cyber-security etc.       Paper Submission    The submitted paper should adhere to the double-blind review policy. All papers will be double-blind reviewed by the Program Committee on the basis of technical quality, relevance to data mining, originality, significance, and clarity. All paper submissions will be handled electronically. Detailed instructions are provided on the conference home page. Papers that do not comply with the Submission Guidelines will be rejected without review.    Each submitted paper should include an abstract up to 200 words and be no longer than 12 single-spaced pages with 10pt font size. Authors are strongly encouraged to use Springer LNCS/LNAI manuscript submission guidelines for their initial submissions. All papers must be submitted electronically through the paper submission system in PDF format only.    The submitted papers must not be previously published anywhere and must not be under consideration by any other conference or journal during the PAKDD review process. Submitting a paper to the conference means that if the paper was accepted, at least one author will attend the conference to present the paper. For no-show authors, their papers will not be included in the proceedings.    The conference will confer several awards including Best Paper Awards, Best Student Paper Awards, and Best Application Paper Awards from the submissions.    The proceedings of the conference will be published by Springer as a volume of the LNAI series, and selected excellent papers will be invited for publications in special issues of high-quality journals including Knowledge and Information Systems (KAIS) and International Journal of Data Science and Analytics.    Before submitting your paper, please carefully read and agree with the PAKDD submission policy and no-show policy: http://pakdd.org/policy.html.        Submission Site: https://cmt.research.microsoft.com/PAKDD2017/      LaTeX and Word Templates & Submission Guidelines: https://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0        Further Information    For further information, please contact the Program Committee Chairs at pakdd2017 (at) gmail.com.
+
+教学辅助平台
+学院经费管理系统（校内）
+科研成果申报平台（校内）
+省级重点实验室
+计算机教学网（校内）
+自然语言处理实验室
+
+Copyright 苏州大学计算机科学与技术学院 2018 All Rights Reserved 苏州市十梓街1号
+苏ICP备-10229414  苏公网安备 32050802010530号
+
+link:
+ /main.htm
+首 页 http://scst.suda.edu.cn/main.htm
+学院概况 /11195/list.htm
+学院简介 /11238/list.htm
+历史沿革 /11241/list.htm
+现任领导 /11240/list.htm
+机构设置 /11239/list.htm
+办学资源 /11242/list.htm
+联系方式 /11243/list.htm
+学科建设 /11196/list.htm
+江苏省优势学科 /11244/list.htm
+博士点 /11245/list.htm
+硕士点 /11246/list.htm
+实验室安全 /11247/list.htm
+师资队伍 /11197/list.htm
+师资概况 /11248/list.htm
+教职工名单 /11249/list.htm
+导师简介 /11250/list.htm
+兼职师资 /11251/list.htm
+科学研究 /11198/list.htm
+研究中心 /yjzx/list.htm
+自然语言处理研究中心 /28250/list.htm
+机器学习与图像处理研究中心 /28251/list.htm
+数据科学与工业软件研究中心 /28252/list.htm
+网络科学与工程研究中心 /28253/list.htm
+人工智能研究院 /28254/list.htm
+嵌入式技术及系统能力培养研究中心 /28255/list.htm
+科研机构 /11253/list.htm
+科研项目 /11254/list.htm
+科研论文 /11255/list.htm
+知识产权 /11256/list.htm
+科研政策 /11257/list.htm
+人才培养 /11199/list.htm
+博士生 /11229/list.htm
+硕士生 /11230/list.htm
+本科生 /11231/list.htm
+人才培养方案 /25067/list.htm
+课程教学大纲 /25068/list.htm
+图灵班 /11234/list.htm
+国际交流 /gjjl/list.htm
+学生工作 /11200/list.htm
+工作队伍 /28212/list.htm
+学工通知 /11275/list.htm
+学工新闻 /xgxw/list.htm
+规章制度 /28213/list.htm
+志愿服务 /28216/list.htm
+学生组织 /28218/list.htm
+勤工助学 /28219/list.htm
+心理健康 /28220/list.htm
+职业规划 /28221/list.htm
+成长陪伴 /czpb/list.htm
+党群工作 /11201/list.htm
+基层组织 /jczz/list.htm
+规章制度 /11260/list.htm
+专题活动 /11262/list.htm
+分党校工作 /fdxgz/list.htm
+发展公示 /11264/list.htm
+关工委工作 /11265/list.htm
+工会工作 /ghgz/list.htm
+http://pakdd.org/policy.html http://pakdd.org/policy.html
+https://cmt.research.microsoft.com/PAKDD2017/ https://cmt.research.microsoft.com/PAKDD2017/
+https://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0 https://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0
+教学辅助平台 http://csteaching.suda.edu.cn
+学院经费管理系统（校内） http://192.168.125.2:9088/tm/Default.aspx
+科研成果申报平台（校内） http://42.244.43.76:8080/
+省级重点实验室 http://ciptlab.suda.edu.cn/
+计算机教学网（校内） http://sit.suda.edu.cn/
+自然语言处理实验室 http://nlp.suda.edu.cn/

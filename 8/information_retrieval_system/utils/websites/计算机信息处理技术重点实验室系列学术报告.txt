@@ -1,0 +1,203 @@
+title:
+计算机信息处理技术重点实验室系列学术报告
+
+body:
+导航
+
+首 页
+
+学院概况
+
+学院简介
+
+历史沿革
+
+现任领导
+
+机构设置
+
+办学资源
+
+联系方式
+
+学科建设
+
+江苏省优势学科
+
+博士点
+
+硕士点
+
+实验室安全
+
+师资队伍
+
+师资概况
+
+教职工名单
+
+导师简介
+
+兼职师资
+
+科学研究
+
+研究中心
+
+自然语言处理研究中心
+
+机器学习与图像处理研究中心
+
+数据科学与工业软件研究中心
+
+网络科学与工程研究中心
+
+人工智能研究院
+
+嵌入式技术及系统能力培养研究中心
+
+科研机构
+
+科研项目
+
+科研论文
+
+知识产权
+
+科研政策
+
+人才培养
+
+博士生
+
+硕士生
+
+本科生
+
+人才培养方案
+
+课程教学大纲
+
+图灵班
+
+国际交流
+
+学生工作
+
+工作队伍
+
+学工通知
+
+学工新闻
+
+规章制度
+
+志愿服务
+
+学生组织
+
+勤工助学
+
+心理健康
+
+职业规划
+
+成长陪伴
+
+党群工作
+
+基层组织
+
+规章制度
+
+专题活动
+
+分党校工作
+
+发展公示
+
+关工委工作
+
+工会工作
+
+计算机信息处理技术重点实验室系列学术报告
+发布者：发布时间：2021-12-03浏览次数：202
+
+报告题目1：Defending Privacy Against More Knowledgeable Membership Inference Attackers时间：2021年12月03日18：00-19：10地点：腾讯会议（ID：913-275-823）报告摘要：Membership Inference Attack (MIA) in deep learning is a common form of privacy attack which aims to infer whether a data sample is in a target classifier's training dataset or not. Previous studies of MIA typically tackle either a black-box or a white-box adversary model, assuming an attacker not knowing (or knowing) the structure and parameters of the target classifier while having access to the confidence vector of the query output. With the popularity of privacy protection methods such as differential privacy, it is increasingly easier for an attacker to obtain the defense method adopted by the target classifier, which poses extra challenge to privacy protection. In this paper, we name such attacker a crystal-box adversary. We present definitions for utility and privacy of target classifier, and formulate the design goal of the defense method as an optimization problem. We also conduct theoretical analysis on the respective forms of the optimization for three adversary models, namely black-box, white-box, and crystal-box, and prove that the optimization problem is NP-hard. Thereby we solve a surrogate problem and propose three defense methods, which, if used together, can make trade-off between utility and privacy. A notable advantage of our approach is that it can be used to resist attacks from three adversary models, namely black-box, white-box, and crystal-box, simultaneously. Evaluation results show effectiveness of our proposed approach for defending privacy against MIA and better performance compared to previous defense methods.报告人简介：陈刚，浙江大学教授。研究领域包括数据库及大数据。 报告题目2：Budgeted Heterogeneous Treatment Effect Estimation时间：2021年12月3日19：10-20：20地点：腾讯会议（ID：913-275-823）报告摘要：Heterogeneous treatment effect (HTE) estimation is receiving increasing interest due to its important applications in fields such as healthcare, economics, and education. Current HTE estimation methods generally assume the existence of abundant observational data, though the acquisition of such data can be costly. In some real scenarios, it is easy to access the pre-treatment covariates and treatment assignments, but expensive to obtain the factual outcomes. To make HTE estimation more practical, in this paper, we examine the problem of estimating HTEs with a budget constraint on observational data, aiming to obtain accurate HTE estimates with limited costs. By deriving an informative generalization bound and connecting to active learning, we propose an effective and efficient method which is validated both theoretically and empirically.报告人简介：周志华，南京大学教授、欧洲科学院外籍院士。研究方向包括人工智能、机器学习、数据挖掘。 报告题目3：推动智慧城市建设迈上新台阶时间：2021年12月3日20：20-21：30地点：腾讯会议（ID：913-275-823）报告摘要：现代城市所包含的物理空间和社会空间空前复杂庞大，是囊括诸多子系统的“巨系统”。随着互联网、大数据、人工智能等的发展，城市的诸多子系统以及它们之间错综复杂的关系，通过数字化映射到信息空间，从而形成了人机物三元融合的信息化“巨系统”，为进一步加强统筹规划、优化城市治理提供了便利化方式和智能化手段。报告人简介：吕建，南京大学教授、中科院院士。研究方向包括软件自动化、面向对象语言与环境和并行程序的形式化方法。 报告题目4：Learning the Redundancy-free Features for Generalized Zero-Shot Object Recognition时间：2021年12月4日13：30-14：30地点：腾讯会议（ID：695-717-279）报告摘要：Zero-shot object recognition or zero-shot learning aims to transfer the object recognition ability among the semantically related categories, such as fine-grained animal or bird species. However, the images of different fine-grained objects tend to merely exhibit subtle differences in appearance, which will severely deteriorate zero-shot object recognition. To reduce the superfluous information in the fine-grained objects, in this paper, we propose to learn the redundancy-free features for generalized zero-shot learning. We achieve our motivation by projecting the original visual features into a new (redundancy-free) feature space and then restricting the statistical dependence between these two feature spaces. Furthermore, we require the projected features to keep and even strengthen the category relationship in the redundancy-free feature space. In this way, we can remove the redundant information from the visual features without losing the discriminative information. We extensively evaluate the performance on four benchmark datasets. The results show that our redundancy-free feature based generalized zero-shot learning (RFF-GZSL) approach can outperform the state-of-the-arts often by a large margin. Our code is available.报告人简介：杨健，南京理工大学教授。研究领域为智能科学技术及应用：自主驾驶（包括行车环境感知等）、智能机器人等。 报告题目5：：人本智能的融合创新时间：2021年12月4日（14：30-15：30）地点：腾讯会议（ID：695-717-279）报告摘要：分享人本智能的定义、愿景与目前的应用。报告人简介：杨小康，上海交通大学教授。主要研究新型数字媒体内容处理的理论与方法，包括先进图像编码与通信、普适网络媒体、基于内容的媒体分析与检索等。 报告题目6：Product Quantized Collaborative Filtering时间：2021年12月4日（15：30-16：30）地点：腾讯会议（ID：695-717-279）报告摘要：Because of strict response-time constraints, efficiency of top-k recommendation is crucial for real-world recommender systems. Locality sensitive hashing and index-based methods usually store both index data and item feature vectors in main memory, so they handle a limited number of items. Hashing-based recommendation methods enjoy low memory cost and fast retrieval of items, but suffer from large accuracy degradation. In this paper, we propose product Quantized Collaborative Filtering (pQCF) for better trade-off between efficiency and accuracy. pQCF decomposes a joint latent space of users and items into a Cartesian product of low-dimensional subspaces, and learns clustered representation within each subspace. A latent factor is then represented by a short code, which is composed of subspace cluster indexes. A user's preference for an item can be efficiently calculated via table lookup. We then develop block coordinate descent for efficient optimization and reveal the learning of latent factors is seamlessly integrated with quantization. We further investigate an asymmetric pQCF, dubbed as QCF, where user latent factors are not quantized and shared across different subspaces. The extensive experiments with 6 real-world datasets show that pQCF significantly outperforms the state-of-the-art hashing-based CF and QCF increases recommendation accuracy compared to pQCF.报告人简介：陈恩红，中国科学技术大学教授。研究领域包括机器学习、数据挖掘、社会网络、个性化推荐系统。 报告题目7：从人脸识别到溯源时间：2021年12月4日（16：30-17：30）地点：腾讯会议（ID：695-717-279）报告摘要：从“数据孤岛”到隐私安全,从溯源到信息关联,用两个黑箱的故事串联人工智能研究的内在脉络,想象智媒技术落地的广阔前景。报告人简介：王晓阳，复旦大学教授。研究领域包括时空移动数据分析，数据系统安全及私密，大数据并行式分析。
+
+教学辅助平台
+学院经费管理系统（校内）
+科研成果申报平台（校内）
+省级重点实验室
+计算机教学网（校内）
+自然语言处理实验室
+
+Copyright 苏州大学计算机科学与技术学院 2018 All Rights Reserved 苏州市十梓街1号
+苏ICP备-10229414  苏公网安备 32050802010530号
+
+link:
+ /main.htm
+首 页 http://scst.suda.edu.cn/main.htm
+学院概况 /11195/list.htm
+学院简介 /11238/list.htm
+历史沿革 /11241/list.htm
+现任领导 /11240/list.htm
+机构设置 /11239/list.htm
+办学资源 /11242/list.htm
+联系方式 /11243/list.htm
+学科建设 /11196/list.htm
+江苏省优势学科 /11244/list.htm
+博士点 /11245/list.htm
+硕士点 /11246/list.htm
+实验室安全 /11247/list.htm
+师资队伍 /11197/list.htm
+师资概况 /11248/list.htm
+教职工名单 /11249/list.htm
+导师简介 /11250/list.htm
+兼职师资 /11251/list.htm
+科学研究 /11198/list.htm
+研究中心 /yjzx/list.htm
+自然语言处理研究中心 /28250/list.htm
+机器学习与图像处理研究中心 /28251/list.htm
+数据科学与工业软件研究中心 /28252/list.htm
+网络科学与工程研究中心 /28253/list.htm
+人工智能研究院 /28254/list.htm
+嵌入式技术及系统能力培养研究中心 /28255/list.htm
+科研机构 /11253/list.htm
+科研项目 /11254/list.htm
+科研论文 /11255/list.htm
+知识产权 /11256/list.htm
+科研政策 /11257/list.htm
+人才培养 /11199/list.htm
+博士生 /11229/list.htm
+硕士生 /11230/list.htm
+本科生 /11231/list.htm
+人才培养方案 /25067/list.htm
+课程教学大纲 /25068/list.htm
+图灵班 /11234/list.htm
+国际交流 /gjjl/list.htm
+学生工作 /11200/list.htm
+工作队伍 /28212/list.htm
+学工通知 /11275/list.htm
+学工新闻 /xgxw/list.htm
+规章制度 /28213/list.htm
+志愿服务 /28216/list.htm
+学生组织 /28218/list.htm
+勤工助学 /28219/list.htm
+心理健康 /28220/list.htm
+职业规划 /28221/list.htm
+成长陪伴 /czpb/list.htm
+党群工作 /11201/list.htm
+基层组织 /jczz/list.htm
+规章制度 /11260/list.htm
+专题活动 /11262/list.htm
+分党校工作 /fdxgz/list.htm
+发展公示 /11264/list.htm
+关工委工作 /11265/list.htm
+工会工作 /ghgz/list.htm
+教学辅助平台 http://csteaching.suda.edu.cn
+学院经费管理系统（校内） http://192.168.125.2:9088/tm/Default.aspx
+科研成果申报平台（校内） http://42.244.43.76:8080/
+省级重点实验室 http://ciptlab.suda.edu.cn/
+计算机教学网（校内） http://sit.suda.edu.cn/
+自然语言处理实验室 http://nlp.suda.edu.cn/

@@ -1,0 +1,207 @@
+title:
+IJCAI-2017 Call for papers
+
+body:
+导航
+
+首 页
+
+学院概况
+
+学院简介
+
+历史沿革
+
+现任领导
+
+机构设置
+
+办学资源
+
+联系方式
+
+学科建设
+
+江苏省优势学科
+
+博士点
+
+硕士点
+
+实验室安全
+
+师资队伍
+
+师资概况
+
+教职工名单
+
+导师简介
+
+兼职师资
+
+科学研究
+
+研究中心
+
+自然语言处理研究中心
+
+机器学习与图像处理研究中心
+
+数据科学与工业软件研究中心
+
+网络科学与工程研究中心
+
+人工智能研究院
+
+嵌入式技术及系统能力培养研究中心
+
+科研机构
+
+科研项目
+
+科研论文
+
+知识产权
+
+科研政策
+
+人才培养
+
+博士生
+
+硕士生
+
+本科生
+
+人才培养方案
+
+课程教学大纲
+
+图灵班
+
+国际交流
+
+学生工作
+
+工作队伍
+
+学工通知
+
+学工新闻
+
+规章制度
+
+志愿服务
+
+学生组织
+
+勤工助学
+
+心理健康
+
+职业规划
+
+成长陪伴
+
+党群工作
+
+基层组织
+
+规章制度
+
+专题活动
+
+分党校工作
+
+发展公示
+
+关工委工作
+
+工会工作
+
+IJCAI-2017 Call for papers
+发布者：发布时间：2016-09-11浏览次数：93
+
+IJCAI-2017 Call for papers (Provisional) The Program Committee of the Twenty-sixth International Joint Conference on Artificial Intelligence (IJCAI-17) invites the submission of technical papers for the main technical track of the conference which will be held in Melbourne, Australia, from August 19th to August 25th, 2017. Submissions are invited on significant, original, and previously unpublished research on all aspects of artificial intelligence. All papers will receive mindful and rigorous reviews. For nearly a half-century, IJCAI has remained the premier conference bringing together the international AI community in communicating the advances and celebrating the achievements of artificial intelligence research and practice. It is a highly referenced conference that will provide authors with useful critical feedback. With the current explosive interest in AI and its applications, this 26th edition of the conference is guaranteed to provide an exciting forum to present and hear about cutting-edge research in AI. The Program Committee of the Twenty-sixth International Joint Conference on Artificial Intelligence (IJCAI-17) invites the submission of technical papers for the main technical track of the conference which will be held in Melbourne, Australia, from August 19th to August 25th, 2017. Submissions are invited on significant, original, and previously unpublished research on all aspects of artificial intelligence. All papers will receive mindful and rigorous reviews. For nearly a half-century, IJCAI has remained the premier conference bringing together the international AI community in communicating the advances and celebrating the achievements of artificial intelligence research and practice. It is a highly referenced conference that will provide authors with useful critical feedback. With the current explosive interest in AI and its applications, this 26th edition of the conference is guaranteed to provide an exciting forum to present and hear about cutting-edge research in AI.   Topics As the premier general conference on AI, IJCAI 2017 welcomes submissions across all areas of AI. The conference scope includes all subareas of AI, including (but not limited to) traditional topics such as search, machine learning, planning, knowledge representation, reasoning, natural language processing, robotics and perception, and multiagent systems. We expressly encourage work that cuts across technical areas and/or integrated capabilities. We encourage all types of contributions including theoretical, engineering and applied. We also encourage papers on AI techniques in the context of novel application domains, such as security, sustainability, health care, transportation, and commerce. A special theme of IJCAI-17 is Autonomy.   Special Track on AI & Autonomy While autonomy has been a focus of interest in the research community for many years, recent developments in the adoption of artificial intelligence and other technologies across many different areas of endeavour have brought new challenges or have made real challenges that until now had been largely abstract and theoretical. There will be a special call for papers on this topic which can be found here.   IMPORTANT DATES     Abstract submission: February 16th, 2017    Paper submission: February 19th, 2017    Rebuttal Period: March 28-29, 2017    Notification of acceptance/rejection: April 23, 2017  All deadlines are 11:59PM, UTC-12; thus submissions are allowed as long as the deadline date is not past anywhere in the world. Information about camera ready deadlines will be provided to authors at a later date.   SUBMISSION DETAILS     Formatting Guidelines, LaTeX Styles and Word Template can be dowloaded from here.    Submission Site: http://ijcai2017.confmaster.net  Submitted papers must be formatted according to IJCAI guidelines and submitted electronically through the IJCAI 2017 paper submission site. Full instructions including formatting guidelines and electronic templates are available on the IJCAI 2017 website. Submissions must be in electronic form using the IJCAI 2017 paper submission software linked above. Submissions must be self-contained; IJCAI will not accept or review any supplementary materials. At least one author of each accepted paper is required to attend the conference to present the work. Authors will be required to agree to this requirement at the time of submission. The paper title, author names, contact details, and a brief abstract must be submitted electronically by February 16th, 2017 (11:59 UTC-12). All papers are due electronically on February 19th, 2017 (11:59 UTC- 12). Submissions received after the deadline or that do not meet the length or formatting requirements will not be considered for review (see the paper length and format section below). No email or fax submissions will be accepted. Notification of receipt of an electronically submitted paper will be emailed to the designated contact author soon after receipt. The designated author will be notified by email about acceptance or rejection by April 23, 2017. Authors will also be able to respond to preliminary reviews during the dates March 28-29th. Guidelines for such responses, along with details of the reviewing process will be posted on the IJCAI 2017 website.   Keywords When submitting their abstract, authors will be required to choose content area keywords. General categories should only be used if specific categories do not apply or do not accurately reflect the main contributions. The full list of keywords will be available on the submission site.   POLICY ON MULTIPLE SUBMISSIONS IJCAI 2017 will not accept any paper that, at the time of submission, is under review for, has already been published in, or has already been accepted for publication in, a journal or another venue with formally published proceedings. As a rule of thumb, authors should regard any publication with an ISBN or ISSN as a formal publication. Authors are also required not to submit their papers to venues with formal publication during IJCAI-17 review period. These restrictions are not intended to apply to workshops and similar specialized presentations with a limited audience and without published proceedings. Authors will be required to confirm that their submissions conform to these requirements at the time of submission. A multiple submission is grounds for immediate rejection of the submitted paper.   CONFIDENTIALITY POLICY All submissions will be treated in strict confidence until the publication date.   CONFLICT OF INTEREST POLICY All people involved in the IJCAI 2017 review process adhere to the IJCAI conflict of interest policy. Details can be found athttp://ijcai.org/.   REVIEW PROCESS Papers will be subject to double blind peer review in which the reviewers do not know the author's identity. In order to make blind reviewing possible, authors must omit their names and affiliations from the paper. Also, while the references should include all published literature relevant to the paper, including previous works of the authors, it should not include unpublished works (papers that are accepted and are made available online by the publisher can be cited). When referring to one's own work, use the third person rather than the first person. For example, say "Previously, Foo and Bar [7] have shown that...", rather than "In our previous work [7] we have shown that...". Such identifying information can be added back to the final camera-ready version of accepted papers. Similarly, reviewers should not reveal their identities within the paper reviews. Selection criteria include originality of ideas, correctness, clarity, significance of results and quality of presentation. IJCAI main track will have a four-tier program committee, with the program chair, area chairs, senior program committee members and program committee members. The review process will include the opportunity for authors to see the reviews of their papers and to respond to technical questions raised by the reviewers before discussion starts within the Program Committee. The decision of the Program Committee will be final and cannot be appealed.   PAPER LENGTH AND FORMAT Submitted technical papers must be no longer than seven pages in total: six pages for the main text of the paper (including all figures but excluding references), and one additional page for references. Note that the references page can only include references. For accepted papers, up to two additional pages may be purchased at an additional cost per page, but note that at the time of submissions, papers should adhere to the guidelines above: 6 pages for main text plus one page for references. Papers must be formatted according to posted IJCAI 2017 guidelines, which will be available on the conference website (the style will be essentially that of previous IJCAI conferences). Electronic templates for the LaTeX typesetting package, as well as a Word template, that conform to IJCAI 2017 guidelines will be made available at the conference website. Final camera ready versions will be formatted according to the publisher's instructions. Authors are required to submit their electronic papers in PDF format. Files in Postscript (ps) or any other format will not be accepted. Over-length papers will be rejected without review. Submissions must be self-contained; IJCAI will not accept or review any supplementary material.   FAQ For a list of frequently asked questions about IJCAI 2017 paper submission, click here.   Enquiries Please send all enquiries about the technical program to the IJCAI 2017 Program Chair, Prof Carles Sierra at the email address pcchair@ijcai-17.org
+
+教学辅助平台
+学院经费管理系统（校内）
+科研成果申报平台（校内）
+省级重点实验室
+计算机教学网（校内）
+自然语言处理实验室
+
+Copyright 苏州大学计算机科学与技术学院 2018 All Rights Reserved 苏州市十梓街1号
+苏ICP备-10229414  苏公网安备 32050802010530号
+
+link:
+ /main.htm
+首 页 http://scst.suda.edu.cn/main.htm
+学院概况 /11195/list.htm
+学院简介 /11238/list.htm
+历史沿革 /11241/list.htm
+现任领导 /11240/list.htm
+机构设置 /11239/list.htm
+办学资源 /11242/list.htm
+联系方式 /11243/list.htm
+学科建设 /11196/list.htm
+江苏省优势学科 /11244/list.htm
+博士点 /11245/list.htm
+硕士点 /11246/list.htm
+实验室安全 /11247/list.htm
+师资队伍 /11197/list.htm
+师资概况 /11248/list.htm
+教职工名单 /11249/list.htm
+导师简介 /11250/list.htm
+兼职师资 /11251/list.htm
+科学研究 /11198/list.htm
+研究中心 /yjzx/list.htm
+自然语言处理研究中心 /28250/list.htm
+机器学习与图像处理研究中心 /28251/list.htm
+数据科学与工业软件研究中心 /28252/list.htm
+网络科学与工程研究中心 /28253/list.htm
+人工智能研究院 /28254/list.htm
+嵌入式技术及系统能力培养研究中心 /28255/list.htm
+科研机构 /11253/list.htm
+科研项目 /11254/list.htm
+科研论文 /11255/list.htm
+知识产权 /11256/list.htm
+科研政策 /11257/list.htm
+人才培养 /11199/list.htm
+博士生 /11229/list.htm
+硕士生 /11230/list.htm
+本科生 /11231/list.htm
+人才培养方案 /25067/list.htm
+课程教学大纲 /25068/list.htm
+图灵班 /11234/list.htm
+国际交流 /gjjl/list.htm
+学生工作 /11200/list.htm
+工作队伍 /28212/list.htm
+学工通知 /11275/list.htm
+学工新闻 /xgxw/list.htm
+规章制度 /28213/list.htm
+志愿服务 /28216/list.htm
+学生组织 /28218/list.htm
+勤工助学 /28219/list.htm
+心理健康 /28220/list.htm
+职业规划 /28221/list.htm
+成长陪伴 /czpb/list.htm
+党群工作 /11201/list.htm
+基层组织 /jczz/list.htm
+规章制度 /11260/list.htm
+专题活动 /11262/list.htm
+分党校工作 /fdxgz/list.htm
+发展公示 /11264/list.htm
+关工委工作 /11265/list.htm
+工会工作 /ghgz/list.htm
+here /_upload/article/files/c2/25/d689d9b547688c358d679f084f0a/ce305246-dd34-4ffd-ab63-961f25636655.zip
+http://ijcai2017.confmaster.net http://ijcai2017.confmaster.net/
+http://ijcai.org/ http://ijcai.org/
+here http://ijcai-17.org/FAQ.html
+教学辅助平台 http://csteaching.suda.edu.cn
+学院经费管理系统（校内） http://192.168.125.2:9088/tm/Default.aspx
+科研成果申报平台（校内） http://42.244.43.76:8080/
+省级重点实验室 http://ciptlab.suda.edu.cn/
+计算机教学网（校内） http://sit.suda.edu.cn/
+自然语言处理实验室 http://nlp.suda.edu.cn/

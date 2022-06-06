@@ -1,0 +1,213 @@
+title:
+2013年发表部分的科研论文
+
+body:
+导航
+
+首 页
+
+学院概况
+
+学院简介
+
+历史沿革
+
+现任领导
+
+机构设置
+
+办学资源
+
+联系方式
+
+学科建设
+
+江苏省优势学科
+
+博士点
+
+硕士点
+
+实验室安全
+
+师资队伍
+
+师资概况
+
+教职工名单
+
+导师简介
+
+兼职师资
+
+科学研究
+
+研究中心
+
+自然语言处理研究中心
+
+机器学习与图像处理研究中心
+
+数据科学与工业软件研究中心
+
+网络科学与工程研究中心
+
+人工智能研究院
+
+嵌入式技术及系统能力培养研究中心
+
+科研机构
+
+科研项目
+
+科研论文
+
+知识产权
+
+科研政策
+
+人才培养
+
+博士生
+
+硕士生
+
+本科生
+
+人才培养方案
+
+课程教学大纲
+
+图灵班
+
+国际交流
+
+学生工作
+
+工作队伍
+
+学工通知
+
+学工新闻
+
+规章制度
+
+志愿服务
+
+学生组织
+
+勤工助学
+
+心理健康
+
+职业规划
+
+成长陪伴
+
+党群工作
+
+基层组织
+
+规章制度
+
+专题活动
+
+分党校工作
+
+发展公示
+
+关工委工作
+
+工会工作
+
+2013年发表部分的科研论文
+发布者：发布时间：2014-03-13浏览次数：206
+
+2013年发表部分的科研论文序号作者题  名刊  名发表时间1程宝雷Independent spanning trees in crossed cubesInformation Sciences2013年1期2曾嘉Inferring evolution of gene duplicates using probabilistic models and nonparametric belief propagationBMC Genomics2013年1月3张召Pairwise Sparsity Preserving Embedding for Unsupervised Subspace Learning and ClassificationIEEE Transactions on Image processing2013年12月4胥大成/樊建席Hamiltonian properties of honeycomb meshesInformation Sciences2013年8月5张莉A fast algorithm for kernel 1-norm support vector machinesKnowledge-Based Systems2013年16期6张莉1-norm support vector novelty detection and its sparseness, , Neural Networks2013年12月7张莉Analysis of programming properties and the row–column generation method for 1-norm support vector machines, Neural Networks2013年12月8张莉Sparse signal reconstruction using decomposition algorithmKnowledge-Based Systems2013年8期10贾俊铖Rendezvous Protocols Based on Message Passing in Cognitive Radio NetworksIEEE Transactions on Wireless Communications 2013年11月11张莉 Iterated time series prediction with multiple support vector regression models, Neurocomputing2013年1期12张民Improving Graph-based Dependency Parsing Models with Dependency Language ModelsIEEE Transactions on Audio, Speech and Language Processing (IEEE-TASL)2013年11月13张召Graph based Constrained Semi-Supervised Learning Framework via Label Propagation over Adaptive NeighborhoodIEEE Transactions on Knowledge and Data Engineering2013年12月14李正华Joint Optimization for Chinese POS Tagging and Dependency ParsingIEEE/ACM TRANSACTIONS ON AUDIO, SPEECH, AND LANGUAGE PROCESSING2013年1期15王进Modeling and Optimal Design of Linear Network Coding for Secure Unicast With Multiple StreamsIEEE Transactions on Parallel and Distributed Systems2013年10期16程宝雷Parallel construction of independent spanning trees and an application in diagnosis on M?bius cubes Journal of Supercomputing2013年3期17程宝雷Dimension-adjacent trees and parallel construction of independent spanning trees on crossed cubesJournal of Parallel and Distributed Computing2013年5期18程宝雷Constructive algorithm of independent spanning trees on M?bius cubesThe Computer Journal2013年11月19刘纯平Image categorization using a semantic hierarchy model with sparse set of salient regionsFrontiers of Computer Science2013年6期20熊德意Backward and trigger based language models for statistical machine translationNatural Language Engineering2013年21吴宏杰/吕强PatGPCR:A Multitemplate approach for improving 3D structure prediction of transmembrane helices of G-Protein-Coupled ReceptorsComputational and Mathematical Methods in Medicine2013年22王红玲Semantic Role Labeling of Chinese Nominal Predicates with Dependency-Driven Constituent Parse Tree StructureJournal of Computer Science & Technology2013年6期23刘全A Gradient Descent Sarsa Algorithm based on the Adaptive Reward-Shanping MechanismIntelligent Automation and Soft Computing2013年4期24刘全A Sarsa Algorithm Based on Double-layer Fuzzy ReasoningMathematical Problems in Engineering2013年26期25马小虎A Fast Classification Scheme and its Application to Face RecognitionJournal of Zhejiang University-SCIENCE C (Computers & Electronics)201326韩月娟/樊建席Changing the diameter of the locally twisted cubeInternational Journal of Computer Mathematics 2013年3期27叶  芸/龚声蓉Online belief propagation algorithm for probabilistic latent semantic analysis Frontiers of Computer Science2013年4期28杨哲Improved Message Diffusion Model for Node Coverage Problem of Ad Hoc Network Based on Node Visit TimesInternational Journal of Distributed Sensor Networks2013年29周国栋Improving syntactic parsing of Chinese with empty element recoveryJCST2013年6期30伏玉琛 Research of QoS Routing Algorithm in Ad Hoc Networks based on Reinforcement LearningElectronics And Electrical Engineering2013年2期31苏栋梁/吴健CGCI-SIFT: A More Efficient and Compact Representation of Local Feature Description AlgorithmMeasurement Science Review2013年3期32吴健A Comparative Study of SIFT and Its VariantsMeasurement Science Review2013年3期33赵雷Resource snapshot model for concurrent transactions in multi-core processorsJCST2013年1期34朱艳琴How Much Delay Has to Be Tolerated in a Mobile Social Network?International Journal of Distributed Sensor Networks2013年35杨旭东/刘全A Scalable Parallel Reinforcement Learning Method Based on Divide-and-Conquer Strategy电子学报（英文版）2013年2期36王林Research on Vehicle Automatically Tracking Mechanismin VANETInternational Journal of Distributed Sensor Networks2013年7期37李领治MCNC: Data Aggregation and Dissemination in Vehicular Ad hoc Networks Using Multicast Network Coding,International Journal of Distributed Sensor Networks2013年10期38李领治Data Dissemination in Mobile Wireless Sensor Network Using Trajectory-Based Network CodingInternational Journal of Distributed Sensor Networks2013年10期39张书奎Resilient Multi-path Routing Mechanism based on Clustering with Intrusion-toleranceInternational Journal of Distributed Sensor Networks2013年10期40常艳/张书奎Uncertainty-Aware Sensor Deployment Strategy in Mixed Wireless Sensor NetworksInternational Journal of Distributed Sensor Networks2013年10期41黄浩晶/张书奎A Routing Algorithm Based on Dynamic Forecast of Vehicle Speed and Position in VANETInternational Journal of Distributed Sensor Networks2013年10期42杨欣浩/张书奎Congestion Control Based on Consensus in the Wireless Sensor NetworkInternational Journal of Distributed Sensor Networks2013年10期43吕强A parallel ant colonies approach to de novo prediction of protein backbone in CASP8/9Science China Information Sciences2013年10期44黄河SPRITE: A Novel Strategy-proof Multi-unit Double Auction Scheme for Spectrum Allocation in Ubiquitous CommunicationsSpringer Personal and Ubiquitous Computing 2013年45王岩Embedding two edge-disjoint Hamiltonian cycles into parity cubes Applied Mechanics and Materials2013年4期46周勇Extracting Top Hot Hits in Biomedicine from PubMed ISISE 2012(会议论文)2012年47程铭策/李蓥Media Access Control Protocol in Ad Hoc Network based on Hybrid Antennas 2013 2nd International Conference on System Engineering and Modeling (ICSEM 2013) 2013年4月48程宝雷Circular dimensional-permutations and reliable broadcasting for hypercubes and M?bius cubes10th IFIP International Conference on Network and Parallel Computing 2013年9月49王  喜/樊建席One-to-One Disjoint Path Covers in DCell10th IFIP International Conference on Network and Parallel Computing (NPC 2013), Lecture Notes in Computer Science2013年9月50刘文军/樊建席Relay Hop Constrained Rendezvous Algorithm for Mobile Data Gathering in Wireless Sensor Networks10th IFIP International Conference on Network and Parallel Computing (NPC 2013), Lecture Notes in Computer Science2013年9月51王进Untraceability of Mobile Devices in Wireless Mesh Networks using Linear Network CodingThe 32th IEEE International Conference on Computer Communications2013年52王珺晟/王进SNKC: An Efficient On-the-fly Pollution Detection Scheme for Content Distribution with Network CodingThe 11th IEEE/IFIP International Conference on Embedded and Ubiquitous Computing2013年53朱艳琴A Push/Pull Scheduling Algorithm in P2P VoD2012 2nd International Conference on Computer Science and Network Technology2012.1254邵文武/杨炯Mining Data from National Center for Biotechnology Information System2012 Fourth International Symposium on Information Science and Engineering (ISISE 2012)2012.1255杨炯Neuronal Edge Detection with Median Filtering and Gradient Sharpening2012 Fourth International Symposium on Information Science and Engineering (ISISE 2012)2012.1256王岩A parallel algorithm to construct BISTs on Parity Cubes2013 IEEE International Conference on Computer Science and Automation Engineering 2013.1157王珺晟/朱艳琴SNKC: An Efficient On-the-fly Pollution Detection Scheme for Content Distributionwith Linear Network Coding2013 IEEE International Conference on High Performance Computing and Communications & 2013 IEEE International Conferenceon Embedded and Ubiquitous Computing2013.1158刘文军/樊建席Grid-Based Real-Time Data Gathering Protocol in Wireless Sensor Network withMobile Sink2013 IEEE International Conference on High Performance Computing and Communications & 2013 IEEE International Conferenceon Embedded and Ubiquitous Computing(HPCC-EUC 2013)2013.1159程宝雷Towards the Independent Spanning Trees in Conditional BC Networks2013 International Conference on Advanced Computer Science and Electronics Information(ICACSEI 2013)2013年7月60王岩Parallel Construction of Binomial-like Independent Spanning Trees on Twisted Cubes2013 International Conference on Computer Sciences and Applications2013年12月61王潇斌/杨哲Measurement and Analysis on P2P Swarms Based on Coupon Collector"s Problem2013 International Conference on Computer, Networks and Communication Engineering2013年5月62徐汀荣A Wireless Sensor Network Node Distribution Protocol Based On Master and Vice Cluster2013 International Conference on Control and information Tecnology,Nanning,2013.863朱桂倩/刘纯平Joint of Multi-Feature Fusion and Mutual Information Based Image Semantic Annotation2013 International Conference on Intelligent Systems and Knowledge Engineering 2013,1164徐芳/刘纯平Object Detection in Dynamic Scenes Based on Codebook with Superpixels2013 Second IAPR Asian Conference on Pattern Recognition2013, 1165李培峰Argument Inference from Relevant Event Mentions in Chinese Argument ExtractionACL 20132014,866刘欢欢/李寿山Joint Modeling of News Reader"s and Comment Writer"s EmotionsACL-20132013年8月67吴瑾Protection mechanisms and security operations of XS128 Flash memoryAdvanced Materials Research2012年68吴瑾The paging mechanism and MMC module in XS128 FlashAdvanced Materials Research2012年69季怡Dynamic visual time context descriptors for automatic human expression classificationAdvances in Intelligent Systems and Computing2013年70张泳江/李蓥On Designing MAC Protocol To Support Hybrid Antennas in Wireless Ad Hoc NetworksAPCIIT 20132013-12-2871王  喜/樊建席A Hamilton Path Embedding Algorithm on DCellApplied Mechanics and Materials2013年72刘文军/樊建席Clustering-Based Data Gathering in Wireless Sensor Network withMobile CollectorApplied Mechanics and Materials2013年73程宝雷Independent spanning trees on special BC networksApplied Mechanics and Materials2013年1月74李艳翠/周国栋Elementary discourse unit in chinese discourse structure analysisChinese Lexical Semantics Lecture Notes in Computer Science Volume 7717, 2013, pp 186-1982013年75张友蕾/王红玲Research on Chinese Sentence Compression for the TitleGenerationChinese Lexical Semantics,Lecture Notes in Computer Science2013年76高  伟/李寿山Joint learning on sentiment and emotion classificationCIKM-20132013年11月77居盛峰/李寿山Active learning on sentiment classification by selecting both words and documentsCLSW-2012, LNAI of Springer-20132013年1月78苏  艳/李寿山Constructing Chinese Sentiment Lexicon Using Bilingual InformationCLSW-2012, LNAI of Springer-20132013年1月79李寿山Corpus Construction on Polarity Shifting in Sentiment AnalysisCLSW-2013, LNAI of Springer-20132013年5月80胡欣瑜/朱斐Meta Web Classifiers Using KNN and PorterEducation and Educational Research2013.3,Vol.181王玉轩/朱斐Innovating New School-Enterprise Cooeration Dual Tutors System and Constructing A New Education System for IT Majored StudentsEducation and Teaching2013,3,Vol.2282王中卿/李寿山Collective Personal Profile Summarization with Social NetworksEMNLP-20132013年11月83邹博伟/朱巧明Tree Kernel-based Negation and Speculation Scope Detection with Structured Syntactic Parse FeaturesEMNLP-20132013年11月84徐生芹/李培峰Recognizing Chinese Elementary Discourse Unit on CommaIALP 20132013,1085李寿山Data Quality Controlling for Cross-Lingual Sentiment ClassificationIALP-2013，IEEE2013年8月86李寿山Sentiment Classification with Polarity Shifting DetectionIALP-2013，IEEE2013年8月87 李烨晶/张广泉A Model for Vehicular Cyber-Physical System Based on Extended Hybrid Automaton.ICCSE20132013年4月88胡欣瑜/朱斐Promote the practical embedded teaching reform and employment developmentICSEM 20132013.189钟宝江CURVATURE SCALE-SPACE OF OPEN CURVES: THEORY AND SHAPE REPRESENTATIONIEEE International Conference on Image Processing 2013年9月90钟宝江VERTICAL CORNER LINE DETECTION ON BUILDINGS IN QUASI-MANHATTANWORLDIEEE International Conference on Image Processing 2013年9月91李培峰Joint Modeling of Argument Identification and Role Determination in Chinese Event Extraction with Discourse- level InformationIJCAI 20132013,892李寿山Active Learning for Cross-domain Sentiment ClassificationIJCAI-20132013年8月93王邦军A Classification Algorithm in Li-K Nearest NeighborIn GCIS 20132013年12月94黄河Near-optimal truthful spectrum auction mechanisms with spatial and temporal reuse in wireless networksIn Proceedings of the fourteenth ACM SIGMOBILE MobiHoc 2013(CCF B类会议)2013年8月95王玉轩/朱斐An Intergrative Pathways Aanalysis System with Different ResourcesInformation Science and Engineering (ISISE), 2012 International Symposium on 2012.1296徐  丹/朱斐Biomedical Hot Points Discovering with Data Mining ApproachInformation Science and Engineering (ISISE), 2012 International Symposium on 2012.1297吴  健Traffic Flow Anomaly Detection Based on Wavelet Denoising and Support Vector RegressionJournal of Algorithms & Computational Technoloy2013年2期98李雪欢/赵朋朋Retrieving Deep Web Data Based on Heuristic Hierarchy Tree ModelJournal of Computational Information Systems2013年1期99宁建民/杨洋Background Modeling and Fuzzy Clustering For Motion Detection from VideoJournal of MultiMedia2013年10月100张广泉Modeling and Analysis Method for CPS Software Architecture Energy ConsumptionJournal of Software 2013.16(8)101李寿山Active Learning for Cross-Lingual Sentiment ClassificationNLP&CC-2013, Communications in Computer and information Science of Springer-20132013年11月102李寿山Semi-supervised Text Categorization by Considering Sufficiency and DiversityNLP&CC-2013, Communications in Computer and information Science of Springer-20132013年11月103王红玲Sentence Compression Based on ILP Decoding MethodNLP&CC-2013, Communications in Computer and information Science of Springer-20132013年11月104黄  媛/李培峰Chinese Argument Extraction Based on Trigger MappingNLP-CC 20132013,10105陈占成/李培峰Chinese Negation and Speculation Detection with Conditional Random FieldsNLP-CC 20132013,10107熊德意A Topic-Based Coherence Model for Statistical Machine TranslationProc. of AAAI 20132013年6月108朱美华/陈文亮Fast and Accurate Shift-Reduce Constituent ParsingProc. of ACL20132013年8月109熊德意Lexical Chain Based Cohesion Models for Document-Level Statistical Machine TranslationProc. of EMNLP 20132013年10月110陈文亮Semi-Supervised Feature Transformation for Dependency ParsingProc. of EMNLP20132013年10月111熊德意Modeling Lexical Cohesion for Document-Level Machine TranslationProc. of IJCAI 20132013年8月112段湘煜Smoothing for Bracketing InductionProc. of IJCAI20132013年8月113段湘煜Max-Margin Synchronous Grammar Induction for Machine TranslationProceedings of EMNLP 20132013年10月114吴娴Towards the Scheduling of Access Requests in Cloud StorageProceedings of ICCSE20132013.4115张召ColorPCA: Color Principal Feature Extraction Technique for Color Image Reconstruction and RecognitionProceedings of the 25th IEEE International Joint Conference on Neural Networks (IJCNN)2013116张召Handwriting Representation and Recognition through a Sparse Projection and Low-Rank Recovery FrameworkProceedings of the 25th IEEE International Joint Conference on Neural Networks (IJCNN)2013117张召Robust Image Representation and Decomposition by Laplacian Regularized Latent Low-Rank RepresentationProceedings of the 25th IEEE International Joint Conference on Neural Networks (IJCNN)2013118徐  伟/黄河DATA: A Double Auction Based Task Assignment Mechanism in Crowdsourcing SystemsProceedings of the ICST Chinacom 20132013年8月119杨哲Optimized Lightweight Active Measurement Model on P2P Swarms over InternetSensors & Transducers2013年7月120顾晶航/钱龙华Research on Building Family Networks Based on Bootstrapping and Coreference ResolutionSpringer-Verlag Berlin Heidelberg 2013, G. Zhou et al. (Eds.)2013年11月121薛佰莉/陈建明The Design of the Data Collaborative Management System for Apparel ManufacturingTBIS 2013 International Symposium2013122李海燕/徐汀荣Face recognition based on improved SURFthe 2013 3rd International Conference on Intelligent System Design and Engineering Applications, IS, 2013年123汪桂琳/朱艳琴Nash Bargaining Between Friends for Cooperative Data Distribution in a Social Peer Swarming systemThe 2013 International Conference on Machine Learning and Cybernetics2013.9124邹蕴晓/章晓芳A Hybrid Coverage Criterion for Dynamic Web TestinThe 25th International Conference on Software Engineering and Knowledge Engineering2013年6月125李正华Dependency Parsing: Past, Present and Future (tutorial)The 6th International Joint Conference on Natural Language Processing (IJCNLP 2013)2013.10126张  娟/朱艳琴Practical and Secure Outsourcing of Linear Algebra in the CloudThe First International Conference on Advanced Cloud and Big Data2013.12127李海鸥/吕强A Protein-Peptide Docking Program with Modeling Receptor Flexible AreasThe IEEE International Conference on Bioinformatics and Biomedicine 20132013128黄奕清/吕强Using Evolutionary Couplings to optimize dimer prediction with Rosetta SymDockThe IEEE International Conference on Bioinformatics and Biomedicine 20132013129李军全/吕强Packing protein side-chains by parallel ant coloniesThe IEEE International Conference on Bioinformatics and Biomedicine 20132013130朱艳琴Optimization of RDF link traversal based query execution东南大学学报（英文版）2013.3131傅启明/刘全The Second Order Temporal Difference Error for Sarsa国际会议ADPRL2013,4132范瑞雪/葛娟Study on Cooperative Evolution Behaviors in Spatial Public Goods Game Based on Self-questioning Mechanism[J].国际会议VMEIT20132013年8月133洪宇一种新型最优检索结果的发现与论证计算机学报2013年3期134吴宏杰/吕强GPCR 跨膜螺旋的结构拓扑建模及其预测方法计算机学报2013年10期135傅启明/刘全一种高斯过程的带参近似策略迭代算法软件学报2013年11期136黄运娟/李凡长等谱流形学习算法软件学报2013年11期137杨季文胞腔同调边缘学习算法研究计算机研究与发展2013年5期138刘全一种基于智能调度的可扩展并行强化学习方法计算机研究与发展2013年4期139孙洪坤/刘全一种优先级扫描的Dyna结构优化算法计算机研究与发展2013年10期140陈冬火基于符号执行和LTL公式重写的测试用例产生方法计算机研究与发展2013年12期141肖  飞/刘全基于自适应势函数塑造奖赏机制的梯度下降Sarsa()算法通信学报2013年1期142刘全一种最大集合期望损失的多目标Sarsa算法电子学报2013年8期143穆  翔/刘全基于两层模糊划分的时间差分算法通信学报2013年10期144于  俊/刘全基于优先级扫描Dyna结构的贝叶斯Q学习方法通信学报2013年11期145张广泉基于体系结构能耗建模的CPS软件可信性评估方法电子学报 2013年8期146张云鹤/朱艳琴基于拍卖的P2P内容分发网络带宽分配机制通信学报2013年4期147冷亦琴/张莉一种基于局部稀疏线性嵌入的降维方法及其应用， 南京大学学报(自然科学) 2013年4期148吴健基于局部密度构造相似矩阵的谱聚类算法通信学报2013年3期149刘全一种三角形网格空洞修复算法电子学报2013年2期150郑刚民/马小虎核正交判别局部正切空间对齐算法模式识别与人工智能2013年7期151徐  凡/朱巧明篇章分析技术综述中文信息学报 2013年3期152高  伟/李寿山基于集成学习的半监督情感分类方法研究中文信息学报2013年3期153薛云霞/李寿山基于社会关系网络的半监督情感分类北大学报（自然科学版）2013年3期154李寿山基于情绪相关事件内容的隐含情绪分类方法研究中文信息学报2013年12期155李寿山基于双语信息和标签传播算法的中文情感词典构建方法中文信息学报2013年12期156胡亚楠/钱龙华基于机器翻译的跨语言关系抽取中文信息学报2013年9期157徐华/钱龙华基于双语依存关系映射的中英文词表构建研究中文信息学报2013年1期158周小佩/朱巧明一种无指导的隐式篇章关系推理方法研究中文信息学报2013年2期159唐伟/朱巧明网页中商品“属性—值”关系的自动抽取方法研究中文信息学报2013年5期160赵知纬/钱龙华基于支持向量机分类和语义信息的中文跨文本指代消解计算机应用2013年4期161陈沙沙/吕强一种基于折叠模式识别的蛋白质结构片段库构建方法小型微型计算机系统2013年2期162高伟/李寿山基于集成学习的半监督情感分类方法研究中文信息学报2013年3期163李艳翠/周国栋基于清华汉语树库的复句关系词识别与分类研究北京大学学报2013年1期164孙静/周国栋/汉语隐式篇章关系识别北京大学学报2013年1期165奚雪峰/周国栋基于Deep Learning 的代词指代消解北京大学学报2013年1期166马彬/朱巧明基于语义依存线索的事件关系识别方法研究北京大学学报2013年1期167殷君伟/陈建明一种基于排序划分的聚类初始化方法微电子学与计算机2013年8期168徐志斌/龚声蓉.二维板材圆形下料的邻居关系算法小型微型计算机系统2013年6期169纪其进支持VCR操作的P2P视频点播服务器容量配置方法小型微型计算机系统2013年3期170张浩军/朱艳琴面向异构网络的动态负载均衡算法及其收敛性分析电子与信息学报2013年9期171高俊伟/孔芳语料对中文名词短语指代消解影响研究中文信息学报2013年3期172陈坤/姚望舒一种基于预排序的贝叶斯网络结构学习算法小型微型计算机系统2013年9期173张浩军/朱艳琴面向异构网络的动态负载均衡算法及其收敛性分析电子与信息学报2013年9期174王晓乾/张莉一种新的李群分类器在手写体数字中的应用, 计算机工程与科学, 2013年2期175徐汀荣一种基于完全图的无线传感器网络节点布局计算机应用与软件2013年10期176张立晓 /徐汀荣一种基于局部特性的重要邮箱用户发现方法，  2013/03计算机应用与软件 2013年3期177韩志远/徐汀荣一种基于HOG和颜色双重特征的粒子滤波跟踪方法计算机应用与软件2013年3期178李海彦/徐汀荣基于两级DCT和正交投影的单样本人脸识别计算机应用与软件2013年1期179陈兆华/徐汀荣基于运动信息的快速局部遮挡人脸检测计算机应用与软件2013年1期180叶  鹏/朱巧明一种融合区域笔划和梯度笔划的油画生成方法图学学报2013年4期181安  平/邓伟一种在基因表达数据集中全局检测共调控基因的双聚类方法生物物理学报2013年12期182刘  攀/邓伟基于结点拓扑排序和条件互信息的基因调控网络路径一致性构建算法生物物理学报2013年1期183惠寅华/李凡长基于稀疏信号同伦形变的鲁棒性特征学习方法计算机工程与科学2013年4期184高  龙/刘全基于tableau结点封闭值的非一致性数据库开放分支修复方法计算机科学2013年4期185温琼翡/朱艳琴P2P流媒体系统激励机制设计与分析小型微型计算机系统2013年5期186杨艳艳/杨季文基于网格索引的数据流子空间概率轮廓查询 计算机工程 2013年2期187侯立斌/李培峰基于CRFs和跨事件的事件识别研究计算机工程 2012年24期188曹金华基于XS128的MSCOM模块构件化的设计开发微计算机信息2013年12期189曹金华基于KL25的AD转换动态在线校正技术实验室研究与探索2013年10期190张华鹏/张宏斌Ad Hoc网络中基于信用的自私节点检测系统计算机工程2013年6期191许晴/李凡长上下文决策树学习算法在其机械波图像中的应用合肥工业大学学报2013年2期192刘全基于多Agent并行采样和学习经验复用的E3算法吉林大学学报2013年1期193刘纯平基于 stroke 滤波器的图像文本提取实验设计实验室研究与探索2013年11期194李海鸥/吕强一种蛋白质与肽段全柔性计算对接方法计算机与应用化学2013年7期195吴瑾嵌入式系统稳定性的研究及应用计算机应用与软件2013年7期196张广泉软件形式化方法课程建设初探计算机科学2013年11期197王力/李培峰一种基于LDA模型的主题句抽取方法计算机工程与应用2013年20期198张 慧/ 李寿山基于评价对象类别的跨领域情感分类方法研究计算机科学2013年1期199王邦军 移动商务下的ERP及教学初探计算机科学2013年11期200王永伟/樊建席基于移动代理的结构化P2P网络模型计算机工程与设计2013年10期201朱艳琴基于A-GCDP困难性的矩阵同态加密方案系统仿真学报2013年4期202刘欢欢/李寿山中文情绪识别方法研究江西师范大学学报2013年2期203崔  翔/姜小峰真实感动态树场景的研究与实现计算机应用2013年6期
+
+教学辅助平台
+学院经费管理系统（校内）
+科研成果申报平台（校内）
+省级重点实验室
+计算机教学网（校内）
+自然语言处理实验室
+
+Copyright 苏州大学计算机科学与技术学院 2018 All Rights Reserved 苏州市十梓街1号
+苏ICP备-10229414  苏公网安备 32050802010530号
+
+link:
+ /main.htm
+首 页 http://scst.suda.edu.cn/main.htm
+学院概况 /11195/list.htm
+学院简介 /11238/list.htm
+历史沿革 /11241/list.htm
+现任领导 /11240/list.htm
+机构设置 /11239/list.htm
+办学资源 /11242/list.htm
+联系方式 /11243/list.htm
+学科建设 /11196/list.htm
+江苏省优势学科 /11244/list.htm
+博士点 /11245/list.htm
+硕士点 /11246/list.htm
+实验室安全 /11247/list.htm
+师资队伍 /11197/list.htm
+师资概况 /11248/list.htm
+教职工名单 /11249/list.htm
+导师简介 /11250/list.htm
+兼职师资 /11251/list.htm
+科学研究 /11198/list.htm
+研究中心 /yjzx/list.htm
+自然语言处理研究中心 /28250/list.htm
+机器学习与图像处理研究中心 /28251/list.htm
+数据科学与工业软件研究中心 /28252/list.htm
+网络科学与工程研究中心 /28253/list.htm
+人工智能研究院 /28254/list.htm
+嵌入式技术及系统能力培养研究中心 /28255/list.htm
+科研机构 /11253/list.htm
+科研项目 /11254/list.htm
+科研论文 /11255/list.htm
+知识产权 /11256/list.htm
+科研政策 /11257/list.htm
+人才培养 /11199/list.htm
+博士生 /11229/list.htm
+硕士生 /11230/list.htm
+本科生 /11231/list.htm
+人才培养方案 /25067/list.htm
+课程教学大纲 /25068/list.htm
+图灵班 /11234/list.htm
+国际交流 /gjjl/list.htm
+学生工作 /11200/list.htm
+工作队伍 /28212/list.htm
+学工通知 /11275/list.htm
+学工新闻 /xgxw/list.htm
+规章制度 /28213/list.htm
+志愿服务 /28216/list.htm
+学生组织 /28218/list.htm
+勤工助学 /28219/list.htm
+心理健康 /28220/list.htm
+职业规划 /28221/list.htm
+成长陪伴 /czpb/list.htm
+党群工作 /11201/list.htm
+基层组织 /jczz/list.htm
+规章制度 /11260/list.htm
+专题活动 /11262/list.htm
+分党校工作 /fdxgz/list.htm
+发展公示 /11264/list.htm
+关工委工作 /11265/list.htm
+工会工作 /ghgz/list.htm
+计算机研究与发展 http://scst.suda.edu.cn/C/periodical-jsjyjyfz.aspx
+基于拍卖的P2P内容分发网络带宽分配机制 http://www.joconline.com.cn/ch/reader/view_abstract.aspx?file_no=20130411&flag=1
+一种无指导的隐式篇章关系推理方法研究 http://epub.cnki.net/kns/detail/detail.aspx?QueryID=7&CurRec=9&recid=&FileName=MESS201302003&DbName=CJFDLAST2013&DbCode=CJFQ&pr=
+网页中商品“属性—值”关系的自动抽取方法研究 http://epub.cnki.net/kns/detail/detail.aspx?QueryID=7&CurRec=11&recid=&FileName=MESS201301003&DbName=CJFDLAST2013&DbCode=CJFQ&pr=
+马彬/朱巧明 http://scst.suda.edu.cn/S/paper.aspx?f=detail&n=10&q=%e4%bd%9c%e8%80%85+%3a+%22%e9%a9%ac%e5%bd%ac%22++DBID%3aWF_QK
+语料对中文名词短语指代消解影响研究 http://epub.cnki.net/KNS/detail/detail.aspx?QueryID=13&CurRec=3&DbCode=CJFQ&dbname=CJFDLAST2013&filename=MESS201303009&urlid=&yx=
+基于两级DCT和正交投影的单样本人脸识别 http://202.195.136.232/kns50/detail.aspx?QueryID=3&CurRec=3
+基于运动信息的快速局部遮挡人脸检测 http://202.195.136.232/kns50/detail.aspx?QueryID=3&CurRec=4
+一种基于LDA模型的主题句抽取方法 http://epub.cnki.net/KNS/detail/detail.aspx?QueryID=13&CurRec=1&DbCode=CJFQ&dbname=CJFDLAST2013&filename=JSGG201302042&urlid=11.2127.TP.20111024.1013.054&yx=
+基于评价对象类别的跨领域情感分类方法研究 http://epub.cnki.net/KNS/detail/detail.aspx?QueryID=13&CurRec=2&DbCode=CJFQ&dbname=CJFDLAST2013&filename=JSJA201301053&urlid=&yx=
+教学辅助平台 http://csteaching.suda.edu.cn
+学院经费管理系统（校内） http://192.168.125.2:9088/tm/Default.aspx
+科研成果申报平台（校内） http://42.244.43.76:8080/
+省级重点实验室 http://ciptlab.suda.edu.cn/
+计算机教学网（校内） http://sit.suda.edu.cn/
+自然语言处理实验室 http://nlp.suda.edu.cn/

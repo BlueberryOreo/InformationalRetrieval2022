@@ -1,0 +1,205 @@
+title:
+ACML 2018
+
+body:
+导航
+
+首 页
+
+学院概况
+
+学院简介
+
+历史沿革
+
+现任领导
+
+机构设置
+
+办学资源
+
+联系方式
+
+学科建设
+
+江苏省优势学科
+
+博士点
+
+硕士点
+
+实验室安全
+
+师资队伍
+
+师资概况
+
+教职工名单
+
+导师简介
+
+兼职师资
+
+科学研究
+
+研究中心
+
+自然语言处理研究中心
+
+机器学习与图像处理研究中心
+
+数据科学与工业软件研究中心
+
+网络科学与工程研究中心
+
+人工智能研究院
+
+嵌入式技术及系统能力培养研究中心
+
+科研机构
+
+科研项目
+
+科研论文
+
+知识产权
+
+科研政策
+
+人才培养
+
+博士生
+
+硕士生
+
+本科生
+
+人才培养方案
+
+课程教学大纲
+
+图灵班
+
+国际交流
+
+学生工作
+
+工作队伍
+
+学工通知
+
+学工新闻
+
+规章制度
+
+志愿服务
+
+学生组织
+
+勤工助学
+
+心理健康
+
+职业规划
+
+成长陪伴
+
+党群工作
+
+基层组织
+
+规章制度
+
+专题活动
+
+分党校工作
+
+发展公示
+
+关工委工作
+
+工会工作
+
+ACML 2018
+发布者：发布时间：2018-04-09浏览次数：607
+
+ACML 2018 : The 10th Asian Conference on Machine Learning 					  				Conference Series : Asian Conference on Machine Learning				    				Link: http://www.acml-conf.org/2018/   				                																When 																Nov 14, 2018 - Nov 16, 2018   																Where 																Beijing, China   																Submission Deadline  Aug 1, 2018   																Notification Due  Sep 20, 2018   																Final Version Due  Oct 5, 2018                     				     					  					Call For Papers     					=========================================================== 					ACML 2018 Call for Papers  					The 10th Asian Conference on Machine Learning (ACML 2018) 					November 14-16, 2018 					Beijing Jiaotong University, Beijing, China 					http://www.acml-conf.org/2018/ 					===========================================================  					The conference calls for high-quality, original research papers in the theory and practice of machine learning. The conference also solicits proposals focusing on frontier research, new ideas and paradigms in machine learning. We encourage submissions from all parts of the world, not only confined to the Asia-Pacific region.   					SUBMISSION 					********** 					This year we are running two publication tracks: Authors may submit either to the conference track, for which the proceedings will be published as a volume of Proceedings of Machine Learning Research (PMLR) series, or to the journal track for which accepted papers will appear in a special issue of the Springer journal Machine Learning.  					Please note that submission arrangements for the two tracks are different.   					CONFERENCE TRACK 					**************** 					For the conference track please submit your manuscript via CMT at:  					https://cmt3.research.microsoft.com/ACML2018 					(available until August 1)  					Please be aware that ACML runs two submission rounds to the conference track: The first round can result in an Accept, Reject, Reject with Encouragement to Resubmit or Conditional Acceptance (i.e., subject to changes made by the second round) decision. There is no author rebuttal phase in this round. The second round has the more usual Accept or Reject outcomes and does include an author rebuttal phase.  					Manuscripts must be written in English, be a maximum of 16 pages (including references, appendices etc.) and follow the PMLR style. If required supplementary material may be submitted as a separate file, but reviewers are not obligated to consider this, and your manuscript should therefore stand on its own merits without any supplementary material.  					Papers will be published in a dedicated volume of the PMLR series.  					You can download a suitable Latex template and style file from this link: http://www.acml-conf.org/2018/ACML%202018%20Main_Home_files/ACML2018_template.zip.  					Submissions must have all detail identifying the author(s) removed from the original manuscript. Submissions that are overlength, not in the correct format, or contain clear identifying detail - for example the authors' names below the title - will be rejected without review.   					JOURNAL TRACK 					************* 					In addition to the Conference Track, the Asian Conference on Machine Learning will be running a Journal Track. In order to ensure an efficient reviewing process, we encourage submissions of papers up to 20 pages. The journal track will follow the reviewing process of the Machine Learning journal. This includes allowing papers that require minor changes to be resubmitted after a first round review. The Journal Track committee will aim to complete the reviewing process in time for this year's conference. In the unlikely event that the reviewing process for a paper could not be completed in time (for this year's conference), the paper will not be considered for the conference and the review will be completed as a regular submission to the Machine Learning journal. Two submission deadlines are available for submitting journal track manuscripts.  					For the journal track, please submit via Springer's Editorial Manager system at:  					https://www.editorialmanager.com/mach 					(available until April 20).  					Log in as Author, click on Submit New Manuscript, and select **S.I.: ACML 2018** from the Choose Article Type drop-down list. Papers will be published in a special issue of Machine Learning. Manuscripts must be written in English; please follow the instructions for authors at:  					http://www.springer.com/computer/ai/journal/10994  					There is no specific page limit for journal submissions, however papers accepted to the journal track must still be presented at the conference in order to be published, therefore it must be possible to describe at least the major parts of your submission in a talk of around 20 minutes duration. Extended version of published conference paper is not eligible for journal track submission.   					IMPORTANT DATES 					*************** 					- Journal Track Early Submission Deadline: February 28, 2018 					- Journal Track Final Submission Deadline: April 20, 2018 					- Workshop and Tutorial Proposals Deadline: May 10, 2018 					- Conference Track Early Submission Deadline: May 10, 2018 					- Conference Track Early Notification Date: June 20, 2018 					- Conference Track Final Submission Deadline: August 1, 2018 					- Conference Track Final Notification Date: September 20, 2018 					- Conference Track Final Manuscript Deadline: October 5, 2018  					All deadlines are 23:59 Pacific Standard Time (PST)   					TOPICS 					****** 					Topics of interest include but are not limited to:  					1. Learning problems  					- Active learning 					- Bayesian machine learning 					- Deep learning, latent variable models 					- Dimensionality reduction 					- Feature selection 					- Graphical models 					- Learning for big data 					- Learning in graphs 					- Multiple instance learning 					- Multi-objective learning 					- Multi-task learning 					- Semi-supervised learning 					- Sparse learning 					- Structured output learning 					- Supervised learning 					- Online learning 					- Transfer learning 					- Unsupervised learning  					2. Analysis of learning systems  					- Computational learning theory 					- Experimental evaluation 					- Knowledge refinement 					- Reproducible research 					- Statistical learning theory  					3. Applications  					- Bioinformatics 					- Biomedical information 					- Collaborative filtering 					- Healthcare 					- Computer vision 					- Human activity recognition 					- Information retrieval 					- Natural language processing 					- Social networks 					- Web search  					4. Learning in knowledge-intensive systems  					- Knowledge refinement and theory revision 					- Multi-strategy learning 					- Other systems   					ORGANIZING COMMITTEE 					******************** 					Honorary Co-Chairs: 					Zhi-Hua Zhou (Nanjing University, China) 					Hiroshi Motoda (AFOSR/AOARD and Osaka University, Japan)  					General Co-Chairs: 					Jian Yu (Beijing Jiaotong University, China) 					Min-Ling Zhang (Southeast University, China)  					Program Co-Chairs: 					Jun Zhu （Tsinghua University, China) 					Ichiro Takeuchi (Nagoya Institute of Technology, Japan)  					Journal Track Co-Chairs 					Masashi Sugiyama (RIKEN / The University of Tokyo, Japan) 					Yung-Kyun Noh (Seoul National University, Korea)  					Workshop Co-Chairs: 					Sinno J. Pan (Nanyang Technological University, Singapore) 					Yu-Feng Li (Nanjing University, China)  					Tutorial Co-Chairs: 					Liwei Wang (Peking University, China) 					Grigorios Tsoumakas (Aristotle University of Thessaloniki, Greece)  					Publication Chair: 					Sheng-Jun Huang (Nanjing University of Aeronautics and Astronautics, China)  					Local Arrangements Co-Chairs 					Liping Jing (Beijing Jiaotong University, China) 					Caiyan Jia (Beijing Jiaotong University, China)  					Sponsorship Chair 					Tao Qin (Microsoft Research Asia, China)   					STEERING COMMITTEE 					****************** 					Zhi-Hua Zhou (Nanjing University, China; Chair) 					Masashi Sugiyama (RIKEN/ The University of Tokyo, Japan; Co-Chair) 					Thomas G. Dietterich (Oregon State University, USA) 					Tu-Bao Ho (Japan Advanced Institute of Science and Technology, Japan) 					Wee Sun Lee (National University of Singapore, Singapore) 					Wray Buntine (Monash University, Australia) 					Chi-Jen Lin (National Taiwan University, Taiwan) 					Hang Li (Toutiao, China) 					Hiroshi Motoda (AFOSR/AOARD and Osaka University, Japan)   					CONTACT INFORMATION 					******************* 					For general inquiries, please contact acml2018info@gmail.com
+
+教学辅助平台
+学院经费管理系统（校内）
+科研成果申报平台（校内）
+省级重点实验室
+计算机教学网（校内）
+自然语言处理实验室
+
+Copyright 苏州大学计算机科学与技术学院 2018 All Rights Reserved 苏州市十梓街1号
+苏ICP备-10229414  苏公网安备 32050802010530号
+
+link:
+ /main.htm
+首 页 http://scst.suda.edu.cn/main.htm
+学院概况 /11195/list.htm
+学院简介 /11238/list.htm
+历史沿革 /11241/list.htm
+现任领导 /11240/list.htm
+机构设置 /11239/list.htm
+办学资源 /11242/list.htm
+联系方式 /11243/list.htm
+学科建设 /11196/list.htm
+江苏省优势学科 /11244/list.htm
+博士点 /11245/list.htm
+硕士点 /11246/list.htm
+实验室安全 /11247/list.htm
+师资队伍 /11197/list.htm
+师资概况 /11248/list.htm
+教职工名单 /11249/list.htm
+导师简介 /11250/list.htm
+兼职师资 /11251/list.htm
+科学研究 /11198/list.htm
+研究中心 /yjzx/list.htm
+自然语言处理研究中心 /28250/list.htm
+机器学习与图像处理研究中心 /28251/list.htm
+数据科学与工业软件研究中心 /28252/list.htm
+网络科学与工程研究中心 /28253/list.htm
+人工智能研究院 /28254/list.htm
+嵌入式技术及系统能力培养研究中心 /28255/list.htm
+科研机构 /11253/list.htm
+科研项目 /11254/list.htm
+科研论文 /11255/list.htm
+知识产权 /11256/list.htm
+科研政策 /11257/list.htm
+人才培养 /11199/list.htm
+博士生 /11229/list.htm
+硕士生 /11230/list.htm
+本科生 /11231/list.htm
+人才培养方案 /25067/list.htm
+课程教学大纲 /25068/list.htm
+图灵班 /11234/list.htm
+国际交流 /gjjl/list.htm
+学生工作 /11200/list.htm
+工作队伍 /28212/list.htm
+学工通知 /11275/list.htm
+学工新闻 /xgxw/list.htm
+规章制度 /28213/list.htm
+志愿服务 /28216/list.htm
+学生组织 /28218/list.htm
+勤工助学 /28219/list.htm
+心理健康 /28220/list.htm
+职业规划 /28221/list.htm
+成长陪伴 /czpb/list.htm
+党群工作 /11201/list.htm
+基层组织 /jczz/list.htm
+规章制度 /11260/list.htm
+专题活动 /11262/list.htm
+分党校工作 /fdxgz/list.htm
+发展公示 /11264/list.htm
+关工委工作 /11265/list.htm
+工会工作 /ghgz/list.htm
+Asian Conference on Machine Learning http://www.wikicfp.com/cfp/program?id=40&s=ACML&f=Asian%20Conference%20on%20Machine%20Learning
+http://www.acml-conf.org/2018/ http://www.acml-conf.org/2018/
+教学辅助平台 http://csteaching.suda.edu.cn
+学院经费管理系统（校内） http://192.168.125.2:9088/tm/Default.aspx
+科研成果申报平台（校内） http://42.244.43.76:8080/
+省级重点实验室 http://ciptlab.suda.edu.cn/
+计算机教学网（校内） http://sit.suda.edu.cn/
+自然语言处理实验室 http://nlp.suda.edu.cn/

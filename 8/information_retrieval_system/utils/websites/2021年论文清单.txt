@@ -1,0 +1,203 @@
+title:
+2021年论文清单
+
+body:
+导航
+
+首 页
+
+学院概况
+
+学院简介
+
+历史沿革
+
+现任领导
+
+机构设置
+
+办学资源
+
+联系方式
+
+学科建设
+
+江苏省优势学科
+
+博士点
+
+硕士点
+
+实验室安全
+
+师资队伍
+
+师资概况
+
+教职工名单
+
+导师简介
+
+兼职师资
+
+科学研究
+
+研究中心
+
+自然语言处理研究中心
+
+机器学习与图像处理研究中心
+
+数据科学与工业软件研究中心
+
+网络科学与工程研究中心
+
+人工智能研究院
+
+嵌入式技术及系统能力培养研究中心
+
+科研机构
+
+科研项目
+
+科研论文
+
+知识产权
+
+科研政策
+
+人才培养
+
+博士生
+
+硕士生
+
+本科生
+
+人才培养方案
+
+课程教学大纲
+
+图灵班
+
+国际交流
+
+学生工作
+
+工作队伍
+
+学工通知
+
+学工新闻
+
+规章制度
+
+志愿服务
+
+学生组织
+
+勤工助学
+
+心理健康
+
+职业规划
+
+成长陪伴
+
+党群工作
+
+基层组织
+
+规章制度
+
+专题活动
+
+分党校工作
+
+发展公示
+
+关工委工作
+
+工会工作
+
+2021年论文清单
+发布者：发布时间：2022-03-09浏览次数：13
+
+三大检索收录论文序号第一/通讯作者题名刊名收录情况1张召Discriminative Local Sparse Representation by    Robust Adaptive Dictionary Pair LearningIEEE TRANSACTIONS ON NEURAL NETWORKS AND    LEARNING SYSTEMSSCIE2钟宝江Image Interpolation Using Multi-Scale    Attention-Aware Inception NetworkIEEE TRANSACTIONS ON IMAGE PROCESSINGSCIE3张召Learning Hybrid Representation by Robust    Dictionary Learning in Factorized Compressed SpaceIEEE TRANSACTIONS ON IMAGE PROCESSINGSCIE4赵朋朋Multi-Label Active Learning Algorithms for    Image Classification: Overview and Future PromiseACM COMPUTING SURVEYSSCIE5张召Robust Triple-Matrix-Recovery-Based    Auto-Weighted Label Propagation for ClassificationIEEE TRANSACTIONS ON NEURAL NETWORKS AND    LEARNING SYSTEMSSCIE6张莉A dynamic framework for updating neighborhood    multigranulation approximations with the variation of objectsINFORMATION SCIENCESSCIE7许佳捷ATLRec: An Attentional Adversarial Transfer    Learning Network for Cross-Domain RecommendationJOURNAL OF COMPUTER SCIENCE AND TECHNOLOGYSCIE8梁合兰Cost-driven scheduling of service processes    in hybrid cloud with VM deployment and interval-based chargingFUTURE GENERATION COMPUTER SYSTEMS-THE    INTERNATIONAL JOURNAL OF ESCIENCESCIE9张召DenseNet with Up-Sampling block for    recognizing texts in imagesNEURAL COMPUTING & APPLICATIONSSCIE10郑凯Destination-Aware Task Assignment in Spatial    Crowdsourcing: A Worker Decomposition ApproachIEEE TRANSACTIONS ON KNOWLEDGE AND DATA    ENGINEERINGSCIE11吕强Developing parallel ant colonies filtered by    deep learned constrains for predicting RNA secondary structure with    pseudo-knotsNEUROCOMPUTINGSCIE12李直旭Enriching Context Information for Entity    Linking with Web DataJOURNAL OF COMPUTER SCIENCE AND TECHNOLOGYSCIE13樊建席Fault-Tolerant Hamiltonicity and Hamiltonian    Connectivity of BCube with Various Faulty ElementsJOURNAL OF COMPUTER SCIENCE AND TECHNOLOGYSCIE14季怡Generating Digital Painting Lighting Effects    via RGB-space GeometryACM TRANSACTIONS ON GRAPHICSSCIE15李正华Hierarchical LSTM with char-subword-word    tree-structure representation for Chinese named entity recognitionSCIENCE CHINA-INFORMATION SCIENCESSCIE16张召Joint Label Prediction Based Semi-Supervised    Adaptive Concept Factorization for Robust Data RepresentationIEEE TRANSACTIONS ON KNOWLEDGE AND DATA    ENGINEERINGSCIE17张莉Local preserving logistic I-Relief for    semi-supervised feature selectionNEUROCOMPUTINGSCIE18张召Mutual-manifold regularized robust fast    latent LRR for subspace recovery and learningNEURAL COMPUTING & APPLICATIONSSCIE19朱斐Protein Interaction Network Reconstruction    Through Ensemble Deep Learning With Attention MechanismFRONTIERS IN BIOENGINEERING AND BIOTECHNOLOGYSCIE20张莉Semi-supervised neighborhood discrimination    index for feature selectionKNOWLEDGE-BASED SYSTEMSSCIE21吴庭芳Simplified and yet Turing universal spiking    neural P systems with polarizations optimized by anti-spikesNEUROCOMPUTINGSCIE22谷飞Survey of the low power wide area network    technologiesJOURNAL OF NETWORK AND COMPUTER APPLICATIONSSCIE23吴庭芳The computation power of spiking neural P    systems with polarizations adopting sequential mode induced by minimum spike    numberNEUROCOMPUTINGSCIE24赵雷User Account Linkage Across Multiple    Platforms with Location DataJOURNAL OF COMPUTER SCIENCE AND TECHNOLOGYSCIE25贡正仙Word-Pair Relevance Modeling with Multi-View    Neural Attention Mechanism for Sentence AlignmentJOURNAL OF COMPUTER SCIENCE AND TECHNOLOGYSCIE26杜贵府Fault diagnosis of rotating machines based on    the EMD manifoldMECHANICAL SYSTEMS AND SIGNAL PROCESSINGSCIE27李直旭A crowd-efficient learning approach for NER    based on online encyclopediaWORLD WIDE WEB-INTERNET AND WEB INFORMATION    SYSTEMSSCIE28樊建席A Novel Low Cost Interconnection Architecture    Based on the Generalized HypercubeIEEE TRANSACTIONS ON PARALLEL AND DISTRIBUTED    SYSTEMSSCIE29黄河An Efficient K-Persistent Spread Estimator    for Traffic Measurement in High-Speed NetworksIEEE-ACM TRANSACTIONS ON NETWORKINGSCIE30樊建席An improved algorithm to construct    edge-independent spanning trees in augmented cubesDISCRETE APPLIED MATHEMATICSSCIE31赵雷Cluster query: a new query pattern on    temporal knowledge graphWORLD WIDE WEB-INTERNET AND WEB INFORMATION    SYSTEMSSCIE32房俊华Distributed and parallel processing for    real-time and dynamic spatio-temporal graphWORLD WIDE WEB-INTERNET AND WEB INFORMATION    SYSTEMSSCIE33张莉Efficient approaches for maintaining    dominance-based multigranulation approximations with incremental granular    structuresINTERNATIONAL JOURNAL OF APPROXIMATE    REASONINGSCIE34李直旭End-to-end relation extraction based on    bootstrapped multi-level distant supervisionWORLD WIDE WEB-INTERNET AND WEB INFORMATION    SYSTEMSSCIE35赵雷Extracting representative user subset of    social networks towards user characteristics and topological featuresWORLD WIDE WEB-INTERNET AND WEB INFORMATION    SYSTEMSSCIE36李直旭Geographical address representation learning    for address matchingWORLD WIDE WEB-INTERNET AND WEB INFORMATION    SYSTEMSSCIE37王宜怀Hybrid Automatic Lung Segmentation on Chest    CT ScansIEEE ACCESSSCIE38张莉Incremental updating probabilistic    neighborhood three-way regions with time-evolving attributesINTERNATIONAL JOURNAL OF APPROXIMATE    REASONINGSCIE39李寿山Multi-Modal Sentiment Classification With    Independent and Interactive Knowledge via Semi-Supervised LearningIEEE ACCESSSCIE40李凡长Multi-Stage Meta-Learning for Few-Shot with    Lie Group Network ConstraintENTROPYSCIE41李寿山Neural stance detection with hierarchical    linguistic representationsIEEE-ACM TRANSACTIONS ON AUDIO SPEECH AND LANGUAGE    PROCESSINGSCIE42刘安Personalized Geographical Influence Modeling    for POI RecommendationIEEE INTELLIGENT SYSTEMSSCIE43赵雷SGPM: a privacy protected approach of    time-constrained graph pattern matching in cloudWORLD WIDE WEB-INTERNET AND WEB INFORMATION    SYSTEMSSCIE44文士挺Spatial crowdsourcing based on Web mapping    servicesWORLD WIDE WEB-INTERNET AND WEB INFORMATION    SYSTEMSSCIE45刘冠峰Temporal paths discovery with multiple    constraints in attributed dynamic graphsWORLD WIDE WEB-INTERNET AND WEB INFORMATION    SYSTEMSSCIE46张民Towards Better Word Alignment in TransformerIEEE-ACM TRANSACTIONS ON AUDIO SPEECH AND    LANGUAGE PROCESSINGSCIE47刘安User experience-driven secure task assignment    in spatial crowdsourcingWORLD WIDE WEB-INTERNET AND WEB INFORMATION    SYSTEMSSCIE48赵朋朋Visual and Textual Jointly Enhanced    Interpretable Fashion RecommendationIEEE ACCESSSCIE49许佳捷(SR)-R-2-tree: a pivot-based indexing    structure for semantic-aware spatial keyword searchGEOINFORMATICASCIE50周国栋Chinese Zero Pronoun Resolution: A    Chain-to-chain ApproachACM TRANSACTIONS ON ASIAN AND LOW-RESOURCE    LANGUAGE INFORMATION PROCESSINGSCIE51许佳捷Collective spatial keyword search on activity    trajectoriesGEOINFORMATICASCIE52樊建席Communication Performance Evaluation of the    Locally Twisted CubeINTERNATIONAL JOURNAL OF FOUNDATIONS OF    COMPUTER SCIENCESCIE53樊建席Constructing Node-Independent Spanning Trees    in Augmented CubesFUNDAMENTA INFORMATICAESCIE54李军辉Explicitly Modeling Word Translations in    Neural Machine TranslationACM TRANSACTIONS ON ASIAN AND LOW-RESOURCE    LANGUAGE INFORMATION PROCESSINGSCIE55郑凯Hybrid route recommendation with taxi and    shared bicyclesDISTRIBUTED AND PARALLEL DATABASESSCIE56李军辉Improving Neural Machine Translation with    Linear Interpolation of a Short-Path UnitACM TRANSACTIONS ON ASIAN AND LOW-RESOURCE    LANGUAGE INFORMATION PROCESSINGSCIE57段湘煜Layer-Wise De-Training and Re-Training for    ConvS2S Machine TranslationACM TRANSACTIONS ON ASIAN AND LOW-RESOURCE    LANGUAGE INFORMATION PROCESSINGSCIE58周夏冰Mimic Encryption Box for Network Multimedia    Data SecuritySECURITY AND COMMUNICATION NETWORKSSCIE59王中卿Neural Co-training for Sentiment    Classification with Product AttributesACM TRANSACTIONS ON ASIAN AND LOW-RESOURCE    LANGUAGE INFORMATION PROCESSINGSCIE60许佳捷On accurate POI recommendation via transfer    learningDISTRIBUTED AND PARALLEL DATABASESSCIE61刘安Privacy-preserving shared collaborative web    services QoS predictionJOURNAL OF INTELLIGENT INFORMATION SYSTEMSSCIE62樊建席Structure Fault-tolerance of the Augmented    CubeJOURNAL OF INTERNET TECHNOLOGYSCIE63樊建席The extra connectivity and extra    diagnosability of regular interconnection networksTHEORETICAL COMPUTER SCIENCESCIE64樊建席The reliability analysis of k-ary n-cube    networksTHEORETICAL COMPUTER SCIENCESCIE65刘力Visualizing events in time-varying scientific    dataJOURNAL OF VISUALIZATIONSCIE66朱斐Multi-Agent Cooperation Q-Learning Algorithm    Based on Constrained Markov GameCOMPUTER SCIENCE AND INFORMATION SYSTEMSSCIE67崔志明An Automatic Epilepsy Detection Method Based    on Improved Inductive Transfer LearningCOMPUTATIONAL AND MATHEMATICAL METHODS IN    MEDICINESCIE68崔志明EEG-Based Epilepsy Recognition via Multiple    Kernel LearningCOMPUTATIONAL AND MATHEMATICAL METHODS IN    MEDICINESCIE69孙玉娥A Method of Map Outlines Generation Based on    Smartphone Sensor DataJisuanji Yanjiu yu Fazhan/Computer Research    and DevelopmentEI70章宗长A Survey of Imitation Learning Based on    Generative Adversarial NetsJisuanji Xuebao/Chinese Journal of ComputersEI71刘全Actor-Critic Algorithm with Maximum-Entropy    CorrectionJisuanji Xuebao/Chinese Journal of ComputersEI72章晓芳An empirical study on the impact of code contributor    on code smellInternational Journal of Performability    EngineeringEI73凌兴宏Asynchronous Advantage Actor-Critic with    Double Attention MechanismsJisuanji Xuebao/Chinese Journal of ComputersEI74刘全Averaged Weighted Double Deep Q-NetworkJisuanji Yanjiu yu Fazhan/Computer Research    and DevelopmentEI75洪宇Convolutional Interactive Attention Mechanism    for Aspect ExtractionJisuanji Yanjiu yu Fazhan/Computer Research    and DevelopmentEI76孙玉娥Detection of Persistent Elements in    Distributed Monitoring SystemJisuanji Yanjiu yu Fazhan/Computer Research    and DevelopmentEI77孔芳Event Coreference Resolution with Document    RepresentationBeijing Daxue Xuebao (Ziran Kexue Ban)/Acta    Scientiarum Naturalium Universitatis PEI78王中卿Joint Model for Sentiment Analysis and Review    Quality Detection with User and Product RepresentationsRuan Jian Xue Bao/Journal of SoftwareEI79朱巧明Macro Discourse Structure Representation    Schema and Corpus ConstructionRuan Jian Xue Bao/Journal of SoftwareEI80张栋Multimodal Emotion Recognition with Auxiliary    Sentiment InformationBeijing Daxue Xuebao (Ziran Kexue Ban)/Acta    Scientiarum Naturalium Universitatis PEI81李正华Neural Network Coupled Model for Conversion    and Exploitation of Heterogeneous Lexical AnnotationsBeijing Daxue Xuebao (Ziran Kexue Ban)/Acta    Scientiarum Naturalium Universitatis PEI82李凡长Similar Manifold Learning Based on Selective    Cluster Ensemble for Image ClusteringRuan Jian Xue Bao/Journal of SoftwareEI83李正华Syntax-Enhanced UCCA Semantic ParsingBeijing Daxue Xuebao (Ziran Kexue Ban)/Acta    Scientiarum Naturalium Universitatis PEI84王晶晶Aspect Sentiment Classification with    Document-level Sentiment Preference Modeling58th Annual Meeting of the Association-for-Computational-Linguistics    (ACL)CPCI-S85张民Bilingual Dictionary Based Neural Machine    Translation without Using Parallel Sentences58th Annual Meeting of the    Association-for-Computational-Linguistics (ACL)CPCI-S86张召Convolutional Dictionary Pair Learning    Network for Image Representation Learning24th European Conference on Artificial    Intelligence (ECAI)CPCI-S87王进Decode-and-Compare: An Efficient Verification    Scheme for Coded Edge ComputingIEEE/ACM 28th International Symposium on    Quality of Service (IWQoS)CPCI-S88张召Deep Self-representative Concept    Factorization Network for Representation LearningSIAM International Conference on Data Mining    (SDM)CPCI-S89洪宇Don't Eclipse Your Arts Due to Small    Discrepancies: Boundary Repositioning with a Pointer Network for Aspect    Extraction58th Annual Meeting of the    Association-for-Computational-Linguistics (ACL)CPCI-S90熊德意Effective Strategies for Low-Resource Reading    ComprehensionInternational Conference on Asian Language    Processing (IALP)CPCI-S91李正华Efficient Second-Order TreeCRF for Neural    Dependency Parsing58th Annual Meeting of the    Association-for-Computational-Linguistics (ACL)CPCI-S92黄河Finding Persistent Elements of Anomalous    Flows in Distributed Monitoring Systems25th IEEE Symposium on Computers and    Communications (ISCC)CPCI-S93张召Fully-Convolutional Intensive Feature Flow    Neural Network for Text Recognition24th European Conference on Artificial    Intelligence (ECAI)CPCI-S94郑朝晖Joint Deployment and Task Computation of UAVs    in UAV-assisted Edge Computing Network21st Asia-Pacific Network Operations and    Management Symposium (APNOMS)CPCI-S95熊德意Learning Contextualized Sentence    Representations for Document-Level Neural Machine Translation24th European Conference on Artificial    Intelligence (ECAI)CPCI-S96李直旭Learning Short-Term Differences and Long-Term    Dependencies for Entity Alignment19th International Semantic Web Conference    (ISWC)CPCI-S97熊德意Learning to Reuse Translations: Guiding Neural    Machine Translation with Examples24th European Conference on Artificial    Intelligence (ECAI)CPCI-S98张召MDPL-net: Multi-layer Dictionary Learning    Network with Added Skip Dense Connections20th IEEE International Conference on Data    Mining (ICDM)CPCI-S99张召Multilayer Collaborative Low-Rank Coding    Network for Robust Deep Subspace Discovery24th European Conference on Artificial    Intelligence (ECAI)CPCI-S100郑凯Predictive Task Assignment in Spatial    Crowdsourcing: A Data-driven ApproachIEEE 36th International Conference on Data    Engineering (ICDE)CPCI-S101刘纯平SELECTIVE COMPLEMENTARY FEATURES FOR    MULTI-PERSON POSE ESTIMATIONIEEE International Conference on Image    Processing (ICIP)CPCI-S102钟宝江SINGLE IMAGE SUPER-RESOLUTION VIA A    PROGRESSIVE MIXTURE MODELIEEE International Conference on Image    Processing (ICIP)CPCI-S103张栋SPEAKER PERSONALITY RECOGNITION WITH    MULTIMODAL EXPLICIT MANY2MANY INTERACTIONSIEEE International Conference on Multimedia    and Expo (ICME)CPCI-S104李正华Syntax-Aware Opinion Role Labeling with    Dependency Graph Convolutional Networks58th Annual Meeting of the    Association-for-Computational-Linguistics (ACL)CPCI-S105张书奎Task Distribution Based on Variable-Order    Markov Position Estimation in Mobile Sensor Networks25th IEEE Symposium on Computers and    Communications (ISCC)CPCI-S106樊建席The Communication Performance of BCDC Data    Center Network12th International Conference on    Communication Software and Networks (ICCSN)CPCI-SCCF期刊/会议论文序号第一/通讯作者题名刊名收录类型1程宝雷Constructing completely independent spanning    trees in data center network based on augmented cubeIEEE TRANSACTIONS ON PARALLEL AND DISTRIBUTED    SYSTEMSCCF A类期刊2房俊华A-DSP: An Adaptive Join Algorithm for Dynamic    Data Stream on Cloud SystemIEEE Transactions on Knowledge and Data    EngineeringCCF A类期刊3赵朋朋Photo2Trip: Exploiting Visual Contents in    Geo-Tagged Photos for Personalized Tour RecommendationIEEE TRANSACTIONS ON KNOWLEDGE AND DATA    ENGINEERINGCCF A类期刊4黄河Spread Estimation with Non-duplicate Sampling    in High-speed NetworksIEEE/ACM Transactions on NetworkingCCF A类期刊5许佳捷Predicting Destinations by a Deep Learning    based ApproachIEEE Transactions on Knowledge and Data    EngineeringCCF A类期刊6李直旭Improving the Quality of Web-based Data    Imputation with Crowd InterventionIEEE Transactions on Knowledge and Data    EngineeringCCF A类期刊7张召Flexible Auto-weighted Local-coordinate    Concept Factorization: A Robust Framework for Unsupervised ClusteringIEEE Transactions on Knowledge and Data    EngineeringCCF A类期刊8张召Dual-constrained Deep Semi-Supervised Coupled    Factorization Network with Enriched PriorInternational Journal of Computer VisionCCF A类期刊9杜扬Self-Adaptive Sampling for Network Traffic    MeasurementIEEE INFOCOM 2021 - IEEE Conference on    Computer CommunicationsCCF A类会议10高国举Auction-Based Combinatorial Multi-Armed    Bandit Mechanisms with Strategic ArmsIEEE INFOCOM 2021 - IEEE Conference on    Computer CommunicationsCCF A类会议11季怡Generating Manga From Illustrations via    Mimicking Manga Creation Workflow2021 IEEE/CVF Conference on Computer Vision    and Pattern Recognition (CVPR)CCF A类会议12季怡User-Guided Line Art Flat Filling with Split    Filling Mechanism2021 IEEE/CVF Conference on Computer Vision    and Pattern Recognition (CVPR)CCF A类会议13孔芳Adversarial Learning for Discourse Rhetorical    Structure ParsingACL2021CCF A类会议14李俊涛R-Drop: Regularized Dropout for Neural    NetworksNeurIPS 2021CCF A类会议15李培峰Hierarchical Macro Discourse Parsing Based on    Topic SegmentationAAAI2021CCF A类会议16赵朋朋Variational Self-attention Network for    Sequential RecommendationICDECCF A类会议17许佳捷MFNP: A Meta-optimized Model for Few-shot    Next POI RecommendationIJCAICCF A类会议18李正华An In-depth Study on Internal Structure of    Chinese WordsACL2021CCF A类会议19李军辉XLPT-AMR: Cross-Lingual Pre-Training via    Multi-Task Learning for Zero-Shot AMR Parsing and Text GenerationACLCCF A类会议20李军辉Improving Text Generation with Dynamic    Masking and RecoveringIJCAICCF A类会议21李军辉Multi-modal Multi-label Emotion Recognition    with Heterogeneous Hierarchical Message PassingAAAICCF A类会议22朱斐ARAIL: Learning to rank from incomplete    demonstrationsInformation SciencesCCF B类期刊23樊建席Relationship Between Extra Connectivity And    Component Connectivity In NetworksThe Computer JournalCCF B类期刊24樊建席The Conditional Reliability Evaluation of    Data Center Network BCDCThe Computer JournalCCF B类期刊25樊建席Component conditional fault tolerance of    hierarchical folded cubic networksTheoretical Computer ScienceCCF B类期刊26吴庭芳Numerical Spiking Neural P SystemsIEEE Transactions on Neural Networks and    Learning SystemsCCF B类期刊27吴庭芳Spiking neural P systems with target    indicationsTheoretical Computer ScienceCCF B类期刊28赵雷Handling conditional queries and data    storageon Hyperledger Fabric efficientlyWorld Wide WebCCF B类期刊29赵雷Solutions for concurrency conflict problemon    Hyperledger FabricWorld Wide WebCCF B类期刊30王中卿Sentiment classification via user and product    interactive modelingScience China Information SciencesCCF B类期刊31刘安Implicit relation-aware social recommendation    with variational auto-encoderWorld Wide Web JournalCCF B类期刊32曹敏Progressive Bilateral-Context Driven Model    forPost-Processing Person Re-IdentificationIEEE Transactions on MultimediaCCF B类期刊33刘全Gradient temporal-difference learning for    off-policy evaluation using emphatic weightingsInformation SciencesCCF B类期刊34张莉CTSVM: A robust twin support vector machine    with correntropy-induced loss function for binary classification problemsInformation SciencesCCF B类期刊35张莉Laplacian pair-weight vector projection for    semi-supervised learningInformation SciencesCCF B类期刊36许佳捷On prediction of traffic flows in smart cities:    a multitask deep learning based approachWorld Wide Web JournalCCF B类期刊37许佳捷HOPE: a hybrid deep neural model for    out-of-town next POI recommendationWorld Wide Web JournalCCF B类期刊38章晓芳Crowdsourced test report prioritization    considering bug severityInformation and Software TechnologyCCF B类期刊39赵雷EEUPL: Towards effective and efficient user    profile linkage across multiple social platformsWorld Wide WebCCF B类期刊40张召DLRF-Net: A Progressive Deep Latent Low-Rank    Fusion Network for Hierarchical Subspace DiscoveryACM Transactions on Multimedia Computing,    Communications and ApplicationsCCF B类期刊41杜扬Online High-Cardinality Flow Detection over    Big Network Data StreamInternational Conference on Database Systems    for Advanced Applications （DASFAA 2021）CCF B类会议42赵雷When Hardness Makes a Difference: Multi-Hop    KnowledgeGraph Reasoning over Few-Shot RelationsCIKMCCF B类会议43赵雷Meta-Learning Based Hyper-Relation Feature    Modeling forOut-of-Knowledge-Base EmbeddingCIKMCCF B类会议44赵雷Incremental Update of Knowledge    GraphEmbedding by Rotating on HyperplanesICWSCCF B类会议45赵雷Intention-oriented Hierarchical    BundleRecommendation with Preference TransferICWSCCF B类会议46赵雷Multiple Features Driven Author    NameDisambiguationICWSCCF B类会议47刘安Privacy-Preserving Worker Recruitment Under    Variety Requirement in Spatial CrowdsourcingICSOCCCF B类会议48刘安Representation Learning Based Query    Decomposition for Batch Shortest Path Processing in Road NetworksICSOCCCF B类会议49张莉Discriminant mutual information for text    feature selectionDASFAA 2021CCF B类会议50张莉Partial feature aggregation network for    real-time object countingICASSP 2021CCF B类会议51李培峰Not Just Classification: Recognizing Implicit    Discourse Relation on Joint Modeling of Classification and GenerationEMNLP 2021CCF B类会议52赵朋朋Considering Interaction Sequence of    Historical Items for Conversational Recommender SystemDASFAA2021CCF B类会议53赵朋朋Tell me Where to Go Next: Improving POI    Recommendation via ConversationDASFAACCF B类会议54赵朋朋Learning Disentangled User Representation    Based on Controllable VAE for RecommendationDASFAACCF B类会议55赵朋朋Knowledge-aware Hypergraph Neural Network for    Recommender SystemsDASFAACCF B类会议56许佳捷SSRGAN: A Generative Adversarial Network for    Streaming Sequential RecommendationDASFAACCF B类会议57许佳捷CBML: A Cluster-based Meta-learning Model for    Session-based RecommendationCIKMCCF B类会议58李正华Data Augmentation with Hierarchical    SQL-to-Question Generation for Cross-Domain Text-to-SQL ParsingEMNLP2021CCF B类会议59李军辉Encouraging Lexical Translation Consistency    for Document-Level Neural Machine TranslationEMNLPCCF B类会议60李军辉Joint Multi-modal Aspect-Sentiment Analysis    with Auxiliary Cross-modal Relation DetectionEMNLPCCF B类会议61李直旭Multimodal Named Entity Recognition with    Image Attributes and Image KnowledgeDatabase Systems for Advanced ApplicationsCCF B类会议62李直旭Attention-Based Multimodal Entity Linking    with High-Quality ImagesDatabase Systems for Advanced ApplicationsCCF B类会议63朱斐Improving exploration efficiency of deep    reinforcement learning through samples produced by generative modelExpert Systems With ApplicationsCCF C类期刊64钟宝江Single Image Super-Resolution Using    Asynchronous Multi-Scale NetworkIEEE Signal Processing LettersCCF C类期刊65朱苏阳Domanial and dimensional adversarial learning    for emotion regressionNeurocomputingCCF C类期刊66李凡长Continual Meta-Learning AlgorithmApplied IntelligenceCCF C类期刊67梁合兰Parallel optimization of QoS-aware big    service processes with discovery of skyline servicesFuture Generation Computer SystemsCCF C类期刊68朱斐Improving deep reinforcement learning by    safety guarding model via hazardous experience planningFrontiers of Computer ScienceCCF C类期刊69刘全Self-guided deep deterministic policy    gradient with multi-actorNeural Computing and ApplicationCCF C类期刊70张莉Fast neighbor user searching for    neighborhood-based collaborative filtering with hybrid user similarity    measuresSoft ComputingCCF C类期刊71张莉Dissimilarity-based nearest neighbor    classifier for single-sample face recognitionThe Visual ComputerCCF C类期刊72张莉Iteratively local fisher score for feature selectionApplied IntelligenceCCF C类期刊73张莉Iterative rating prediction for    neighborhood-based collaborative filteringApplied IntelligenceCCF C类期刊74贡正仙Improving neural sentence alignment with word    translationFRONTIERS OF COMPUTER SCIENCECCF C类期刊75赵朋朋Long- and short-term self-attention network    for sequential recommendationNeurocomputingCCF C类期刊76黄河An Anti-Malicious Task Allocation Mechanism    in Crowdsensing SystemsFuture Generation Computer SystemsCCF C类期刊77许佳捷TrajVAE: A Variational AutoEncoder model for    trajectory generationNeurocomputingCCF C类期刊78许佳捷A graph embedding based model for    fine-grained POI recommendationNeurocomputingCCF C类期刊79章晓芳How Well Do Pre-trained Contextual Language    Representations Recommend Labels for GitHub Issues?Knowledge-Based SystemsCCF C类期刊80季怡Aligning vision-language for graph inference    in visual dialogImage and Vision ComputingCCF C类期刊81马小虎MA-GAN: A Method Based on Generative    Adversarial Network for Calligraphy MorphingICONIPCCF C类会议82季怡Integrating Historical States and    Co-attention Mechanism for Visual Dialog2020 25th International Conference on Pattern    Recognition (ICPR)CCF C类会议83杜扬Online Anomalous Taxi Trajectory Detection    Based on Multidimensional Criteria2021 International Joint Conference on Neural    Networks (IJCNN)CCF C类会议84周夏冰Emotion Classification with Explicit and    Implicit Syntactic InformationNLPCCCCF C类会议85贾俊铖TEA-Fed: Time-Efficient Asynchronous    Federated Learning for Edge ComputingACM International Conference on Computing    FrontiersCCF C类会议86褚晓敏Chinese Macro Discourse Parsing on Dependency    Graph Convolutional NetworkNLPCC 2021CCF C类会议87张得天Extra-Budget Aware Task Assignment in Spatial    CrowdsourcingWeb Information Systems Engineering (WISE    2021)CCF C类会议88周经亚Computation Offloading for Multi-user    Sequential Tasks in Heterogeneous Mobile Edge ComputingCollaborateComCCF C类会议89孔芳Enhancing Long-distance Dialogue History    Modeling for Better Dialogue Ellipsis and Coreference ResolutionNLPCC 2021CCF C类会议90孔芳Multi-level Cohension Information Modeling    for Better Written and Dialogue Discourse ParsingNLPCC 2021CCF C类会议91孔芳Recognition of Nested Entity with Dependency    InformationNLPCC 2021CCF C类会议92李凡长Improving Meta-Learning Classification with    Prototype EnhancementProceedings of the International Joint    Conference on Neural NetworksCCF C类会议93李凡长Task-adaptive Relation Dependent Network for    Few-shot LearningProceedings of the International Joint Conference    on Neural NetworksCCF C类会议94李凡长SGBMN: Symplectic Group Bayesian Manifold    Network for Few-shot ClassificationProceedings of the International Joint    Conference on Neural NetworksCCF C类会议95王岩Fault-Tolerant Routing of Generalized Hypercubes    under 3-Component ConnectivityISPA 2021CCF C类会议96刘纯平Do We Really Reduce Bias for Scene Graph    Generation?IJCNNCCF C类会议97张莉Residual Gated Recurrent Unit-Based Stacked    Network for Stock Trend Prediction from Limit Order BookKSEM 2021CCF C类会议98张莉Q-Learning with Fisher Score for Feature    Selection of Large-Scale Data Sets,KSEM 2021CCF C类会议99张莉Fisher-regularized Support Vector Machine    with Pinball Loss FunctionIJCNN 2021CCF C类会议100刘纯平Video Captioning with External Knowledge    Assistance and Multi-Feature FusionICONIPCCF C类会议101刘纯平Deep Content Guidance Network for Arbitrary    Style Transfer.International Joint Conference on Neural    NetworksCCF C类会议102张莉Feature fusion learning based on LSTM and CNN    networks for trend analysis of limit order booksICONIP 2021CCF C类会议103刘纯平BDFPN: Bi-Direction Feature Pyramid Network    for Scene Text DetectionInternational Joint Conference on Neural    NetworksCCF C类会议104赵朋朋MGSAN: A Multi-granularity Self-attention    Network for Next POI RecommendationWISECCF C类会议105赵朋朋Exploiting Intra and Inter-field Feature    Interaction with Self-Attentive Network for CTR PredictionWISECCF C类会议106李培峰Chinese Event Argument Classification via    Discourse-level Graph Convolutional NetworkIJCNN 2021CCF C类会议107李培峰Macro Discourse Relation Recogniztion Based    on Micro Discourse Structure and Self-Interactive Attention NetworkIJCNN 2021CCF C类会议108李培峰Recognizing Chinese Discourse Relations Based    on Multi-perspective and Hierarchical ModelingIJCNN 2021CCF C类会议109李培峰Employing Sentence Compression to Improve    Event Coreference ResolutionNLPCC 2021CCF C类会议110李领治The Design and Implementation of Secure    Distributed Image Classification Model Training System for Heterogenous Edge    ComputingEAI CollaborateCom 2020CCF C类会议111李培峰Exploit Vague Relation: An Augmented Temporal    Relation Corpus and EvaluationNLPCC 2021CCF C类会议112李培峰Employing Multi-granularity Features to    Extract Entity Relation in DialogueNLPCC 2021CCF C类会议113李培峰More Than One-Hot: Chinese Macro Discourse    Relation Recognition on Joint Relation EmbeddingICONIP 2021CCF C类会议114李培峰Multitask Model for End-to-End Event    Coreference ResolutionICONIP 2021CCF C类会议115李培峰Sentence Rewriting with Few-Shot Learning for    Document-Level Event Coreference ResolutionICONIP 2021CCF C类会议116朱晓旭Early Rumor Detection with Prior Information    on Social MediaICONIPCCF C类会议117钱忠Document-Level Event Factuality    Identification Using Negation and Speculation ScopeICONIPCCF C类会议118付国宏Integrating rich utterance features for    emotion recognition in multi-party conversationsICONIP 2021CCF C类会议119李正华A Coarse-to-Fine Labeling Framework for Joint    Word Segmentation, POS Tagging, and Constituent ParsingCoNLL2021CCF C类会议120章晓芳Multi-Granularity Code Smell Detection using    Deep Learning Method based on Abstract Syntax Tree.Proceedings of the 33rd International    Conference on Software Engineering and Knowledge EngineeringCCF C类会议121王进Secure Coded Matrix Multiplication against    Cooperative Attack in Edge Computing2020 IEEE 19th International Conference on    Trust, Security and Privacy in Computing and Communications (TrustCom)CCF C类会议122王进MCSEC Secure Coded Matrix Multiplication    Scheme for Edge Computing with Minimum Communication CostIEEE International Symposium on Parallel and    Distributed Processing with Applications(IEEE ISPA)CCF C类会议123房俊华Disatra: A Real-Time Distributed Abstract    Trajectory ClusteringWISECCF C类会议124张书奎Research on Multimodal Time Series Data    Fusion Based on SSAE and LSTM2021 IEEE Wireless Communications and    Networking Conference (WCNC 2021)CCF C类会议125张书奎A Packet Forwarding Algorithm based on Game    and Indirect Reciprocity2021 IEEE Wireless Communications and    Networking Conference (WCNC 2021)CCF C类会议126李正华A Unified Span-Based Approach for Opinion    Mining with Syntactic ConstituentsNAACL2021CCF C类会议127洪宇ThinkTwice: A Two-Stage Method for Long-Text    Machine Reading ComprehensionThe 10th CCF International Conference on    Natural Language Processing and Chinese Computing (NLPCC2021)CCF C类会议128李直旭Multi-modal Chorus Recognition for Improving    Song SearchInternational Conference on Artificial Neural    NetworksCCF C类会议129李直旭Enhancing both Local and Global Entity    Linking Models with AttentionWeb Information Systems EngineeringCCF C类会议130李直旭HyperJOIE: Two-View Hyperbolic Knowledge    Graph Embedding with Entities and Concepts JointlyWeb Information Systems EngineeringCCF C类会议131李直旭Document-Level Relation Extraction with    Entity Enhancement and Context RefinementWeb Information Systems EngineeringCCF C类会议北图核心期刊论文序号第一/通讯作者题名刊名1朱斐基于优化子目标数的Option-Critic算法计算机学报2李凡长元学习研究综述计算机学报3孔芳篇章视角的汉语零指代语料库构建软件学报4李军辉基于多任务预训练的AMR文本生成研究软件学报5刘全一种加速时间差分算法收敛的方法自动化学报6陈文亮基于多标签策略的中文知识图谱问答研究计算机工程7陈文亮结合五笔的上下文相关字向量的命名实体识别计算机工程8贾俊铖基于注意力机制的肺结节检测算法计算机工程与设计9王宜怀面向NB-IoT测控系统的可配置软件设计计算机工程与设计10王宜怀基于NB-IoT的3D打印远程更新系统计算机工程与设计11贾俊铖图像超分辨率特征浓缩网络计算机工程与应用12王红玲基于单词-章节关联的科技论文摘要计算机科学13王中卿基于门控图卷积与动态依存池化的事件论元抽取计算机科学14王中卿基于回复生成的对话意图预测计算机科学15李培峰基于数据增强的中文隐式篇章关系识别方法计算机科学16李培峰基于字词联合表示的中文事件检测方法计算机科学17季怡基于LSTM神经网络的声纹识别计算机科学18陈文亮基于上下文相关字向量的中文命名实体识别计算机科学19李军辉联合自注意力和循环网络的图像标题生成计算机科学20凌兴宏基于自适应调节策略熵的元强化学习算法计算机科学21张莉粗-细两阶段卷积神经网络算法计算机科学与探索22王红玲基于篇章宏观结构的科技论文摘要模型计算机应用23程宝雷一类数据中心网络中顶点独立生成树的一种通用构造方法计算机应用研究24胡沁涵基于迁移学习和批归一化的菜肴图像识别方法计算机应用与软件25王红玲基于上下文信息的产品评论摘要Bi-LSTM模型计算机应用与软件26周夏冰基于Spark的并行信任进化算法计算机应用与软件27贾俊铖面向NBA球员的数据分析和可视化计算机应用与软件28王宜怀面向ARM Cortex-M系列MCU的嵌入式终端BIOS设计计算机应用与软件29段湘煜神经机器翻译的词级别正则化厦门大学学报(自然科学版)30段湘煜基于掩码机制的非自回归神经机器翻译厦门大学学报(自然科学版)31段湘煜文化风格区分的无监督领域适应的电商产品翻译厦门大学学报(自然科学版)32李正华汉语上下位关系分类数据集构建和基准方法比较厦门大学学报(自然科学版)33贡正仙融合篇章上下文有效识别的篇章级机器翻译厦门大学学报(自然科学版)34李军辉一种简单的神经机器翻译的动态数据扩充方法厦门大学学报(自然科学版)35褚晓敏基于语义和主题模型的宏观篇章关系识别方法山西大学学报36朱晓旭面向新闻评论的汉语反问句语料库构建山西大学学报(自然科学版)37张莉面向文本特征的去冗余相对判别准则山西大学学报(自然科学版)38李培峰融合多维度信息的中文事件时序关系识别方法山西大学学报(自然科学版)39王红玲基于文本结构和图卷积网络的生成式摘要中文信息学报40周夏冰中文知识库问答中的路径选择中文信息学报41孔芳面向对话的融入交互信息的实体关系抽取中文信息学报42孔芳基于图注意力卷积神经网络的文档级关系抽取中文信息学报43王中卿基于用户与产品信息和图卷积网络的情感分类研究中文信息学报44段湘煜基于递进式半知识蒸馏的神经机器翻译中文信息学报45李培峰基于篇章主题的中文宏观篇章主次关系识别方法中文信息学报46李培峰基于篇章结构图网络的话题分割中文信息学报47洪宇结合问题类型及惩罚机制的问题生成中文信息学报48洪宇面向问句复述识别的语义正交化匹配方法研究中文信息学报49洪宇基于图卷积神经网络的隐式篇章关系识别中文信息学报50洪宇基于共享BERT和门控多任务学习的事件检测方法中文信息学报51洪宇融合情感词交互注意力机制的属性抽取研究中文信息学报52李军辉基于神经机器翻译编码器的语义学习分析中文信息学报53钱龙华基于最短依存路径和集成学习的化学物蛋白质关系抽取中文信息学报54张莉面向限价指令簿趋势分析的网络集成模型模式识别与人工智能55朱斐具有窗口结构Bi-LSTM网络的心电图QRS波检测方法南京大学学报56王宜怀基于光固化的三维模型自适应切片研究塑料工业57王宜怀面向NB-IoT的医药冷链物流系统框架研究现代电子技术58高珊法治化背景下大学生党建工作研究学校党建与思想教育59王宜怀基于GA-BP神经网络的非线性模拟量回归仪表技术与传感器60王晶晶基于属性感知辅助学习的细粒度性格推理郑州大学学报61洪宇中文机器阅读理解的鲁棒性研究北京大学学报(自然科学版)
+
+教学辅助平台
+学院经费管理系统（校内）
+科研成果申报平台（校内）
+省级重点实验室
+计算机教学网（校内）
+自然语言处理实验室
+
+Copyright 苏州大学计算机科学与技术学院 2018 All Rights Reserved 苏州市十梓街1号
+苏ICP备-10229414  苏公网安备 32050802010530号
+
+link:
+ /main.htm
+首 页 http://scst.suda.edu.cn/main.htm
+学院概况 /11195/list.htm
+学院简介 /11238/list.htm
+历史沿革 /11241/list.htm
+现任领导 /11240/list.htm
+机构设置 /11239/list.htm
+办学资源 /11242/list.htm
+联系方式 /11243/list.htm
+学科建设 /11196/list.htm
+江苏省优势学科 /11244/list.htm
+博士点 /11245/list.htm
+硕士点 /11246/list.htm
+实验室安全 /11247/list.htm
+师资队伍 /11197/list.htm
+师资概况 /11248/list.htm
+教职工名单 /11249/list.htm
+导师简介 /11250/list.htm
+兼职师资 /11251/list.htm
+科学研究 /11198/list.htm
+研究中心 /yjzx/list.htm
+自然语言处理研究中心 /28250/list.htm
+机器学习与图像处理研究中心 /28251/list.htm
+数据科学与工业软件研究中心 /28252/list.htm
+网络科学与工程研究中心 /28253/list.htm
+人工智能研究院 /28254/list.htm
+嵌入式技术及系统能力培养研究中心 /28255/list.htm
+科研机构 /11253/list.htm
+科研项目 /11254/list.htm
+科研论文 /11255/list.htm
+知识产权 /11256/list.htm
+科研政策 /11257/list.htm
+人才培养 /11199/list.htm
+博士生 /11229/list.htm
+硕士生 /11230/list.htm
+本科生 /11231/list.htm
+人才培养方案 /25067/list.htm
+课程教学大纲 /25068/list.htm
+图灵班 /11234/list.htm
+国际交流 /gjjl/list.htm
+学生工作 /11200/list.htm
+工作队伍 /28212/list.htm
+学工通知 /11275/list.htm
+学工新闻 /xgxw/list.htm
+规章制度 /28213/list.htm
+志愿服务 /28216/list.htm
+学生组织 /28218/list.htm
+勤工助学 /28219/list.htm
+心理健康 /28220/list.htm
+职业规划 /28221/list.htm
+成长陪伴 /czpb/list.htm
+党群工作 /11201/list.htm
+基层组织 /jczz/list.htm
+规章制度 /11260/list.htm
+专题活动 /11262/list.htm
+分党校工作 /fdxgz/list.htm
+发展公示 /11264/list.htm
+关工委工作 /11265/list.htm
+工会工作 /ghgz/list.htm
+教学辅助平台 http://csteaching.suda.edu.cn
+学院经费管理系统（校内） http://192.168.125.2:9088/tm/Default.aspx
+科研成果申报平台（校内） http://42.244.43.76:8080/
+省级重点实验室 http://ciptlab.suda.edu.cn/
+计算机教学网（校内） http://sit.suda.edu.cn/
+自然语言处理实验室 http://nlp.suda.edu.cn/

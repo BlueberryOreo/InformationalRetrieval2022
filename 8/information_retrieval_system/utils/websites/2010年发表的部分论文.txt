@@ -1,0 +1,204 @@
+title:
+2010年发表的部分论文
+
+body:
+导航
+
+首 页
+
+学院概况
+
+学院简介
+
+历史沿革
+
+现任领导
+
+机构设置
+
+办学资源
+
+联系方式
+
+学科建设
+
+江苏省优势学科
+
+博士点
+
+硕士点
+
+实验室安全
+
+师资队伍
+
+师资概况
+
+教职工名单
+
+导师简介
+
+兼职师资
+
+科学研究
+
+研究中心
+
+自然语言处理研究中心
+
+机器学习与图像处理研究中心
+
+数据科学与工业软件研究中心
+
+网络科学与工程研究中心
+
+人工智能研究院
+
+嵌入式技术及系统能力培养研究中心
+
+科研机构
+
+科研项目
+
+科研论文
+
+知识产权
+
+科研政策
+
+人才培养
+
+博士生
+
+硕士生
+
+本科生
+
+人才培养方案
+
+课程教学大纲
+
+图灵班
+
+国际交流
+
+学生工作
+
+工作队伍
+
+学工通知
+
+学工新闻
+
+规章制度
+
+志愿服务
+
+学生组织
+
+勤工助学
+
+心理健康
+
+职业规划
+
+成长陪伴
+
+党群工作
+
+基层组织
+
+规章制度
+
+专题活动
+
+分党校工作
+
+发展公示
+
+关工委工作
+
+工会工作
+
+2010年发表的部分论文
+发布者：发布时间：2011-07-07浏览次数：235
+
+2010年发表的部分论文序号作者题名刊名年1周国栋Tree kernel-based semantic relation extraction with rich syntactic and semantic informationInformation Sciences2010年8月，4卷2韩月娟/樊建席Embedding meshes into locally twisted cubesInformation Sciences2010年10月，4卷3曾  嘉SCS: Signal, Context, and Structure Features for Genome-Wide Human Promoter RecognitionIEEE/ACM TRANSACTIONS ON COMPUTATIONAL BIOLOGY AND BIOINFORMATICS2010年4钟宝江On the convergence of planar curves under smoothingIEEE Transactions on Image Processing2010年 19期5曾  嘉Multiconstrained gene clustering based on generalized projectionsBMC Bioinformatics2010年6张广泉A Locally-Adjustable Planar Structure for Adaptive Topology Control in Wireless Ad hoc Networks. IEEE Transactions on Parallel and Distributed Systems 2010年10期7李云飞Regional Model of Internet of Things Based on Urban LightingIC-BNMT 20102010年10月8孔  芳Dependency-driven Anaphoricity Determination for Coreference ResolutionCOLING"20102010年8月9孔  芳A Tree Kernel-based Unified Framework for Chinese Zero Anaphora ResolutionEMNLP"20102010年10月10张  伟/李培峰Sentiment Classification Based On Syntax Tree Pruning and Tree KernelIEEE WISA20102010年8月11严琪翠/刘  全A Hierarchical Reinforcement Learning Algorithm Based On Heuristic Rewaard Function.ICACC 20102010年3月12朱  斐An Optimized Video-based Traffic Congestion Monitoring SystemIEEE WKDD 2010 2010年1月13葛  娟Emission Trading Equilibrium Model of Transboundary Pollution in River BasinsMSE 20102010年10月14樊建席One-to-one communication in twisted cubes under restricted connectivityFrontier of Computer Science in China2010年12月15周吴军/ 樊建席Broadcast in Bijective Connection Networks with the Restricted Faulty Node SetThe 5th Int"l Conf. on Computer Science & Education2010年8月16徐汀荣A Community Detection Algorithm of Email Based on SeparationThe 2nd Internationnal Conference on Information Science and Engineering    2010年1月17彭  玲/徐汀荣A New Community Division Based on Coring Graph ClusteringJournal of Software 2010年10期18钱龙华Clustering-based Stratified Seed Sampling for Semi-Supervised Relation ClassificationEMNLP2010(一区会议)2010年10月19刘  冰/钱龙华Dependency-driven Anaphoricity Determination for Coreference ResolutionCOLING2011(二区会议)2010年8月20王红玲Topic-driven Multi-Document SummarizationIALP"20102010年12月21朱巧明A Unified Framework for Scope Learning via Simplified Shallow Semantic Parsing EMNLP20102010年10月22李军辉/周国栋Learning the Scope of Negation via Shallow Semantic ParsingCOLING20102010年8月23李军辉/周国栋Joint Syntactic and Semantic Parsing of ChineseACL 20102010年24李军辉/周国栋A Unified Framework for Scope Learning via Simplified Shallow Semantic ParsingEMNLP 20102010年10月25陈冬火auto-generation and redundancy reduction of test cases for reactive systems2010 International Conference on Software Technology and Engineering 2010年1月26杨  哲Active analysis of BT with a modified Azureus clientProceedings of 10th IEEE Internatioanl Conference on Computer and Information Technology2010年6月27周丽丽/李凡长Research on mapping mechanism of learning expressionLNAI 6401 Rough Set and Knowledge Technology 2010年10月28吴  瑾The research and low-power strategy of ZigBee networking scheme for workshop equipment monitoring nodesCISE20102010年12月29华  松/洪  宇Opposite Re-ranking Based on Relevant Sub-topic DispellingICISE 2010.2010年12月 30马小虎Fast Fractal Image Encoding Based on Lifting Wavelet Transform2010 International Symposium on Image Analysis & Signal Processing2010年4月31冯宇挺/赵  雷GATuner: Tuning Schema Matching Systems using Genetic AlgorithmsDBTA 20102010年11月32钟宝江Curvature product corner detection in direct curvature scale spaceInternational Journal of Computational Vision and Robotics2010年1期33钟宝江On the Stability of Refined L-Curvature under Rotation TransformationsApplied Mechanics and Materials2010年20期34王  波/刘纯平A Fusion-based Approach To Image Segmentation Using ROI And Multi-phase Level Set Model International Congress on Image and Signal Processing, 20102010年10月35王宜怀Stable In circuit Programming of Flash Memory in Freescale’s MC9S12 MCU familyIEEE Computer Society20102010年36力  琼/伏玉琛A hybrid support vector regression for time series prediction3rd International Conference on Knowledge Discovery and Data Mining2010年37温  炜/吕  强Construction of A Sequence- and Backbone-Dependent Rotamer Library by Hidden-Markov ModelICBBE 20102010年6月38黄  旭/吕  强 Assessment of Rotamer Library for Protein Structure PredictionICISE20102010年12月39张广泉A Model-Based Framework for Adapting Interaction Mismatches of Time-Aware Web Services2010 IEEE International Conference on Service Sciences2010年5月40张书奎a Data Aggregation Algorithm Based On Splay Tree  For Wireless Sensor NetworksJournal of compter2010年5期41张书奎An Efficient and Robust Data Dissemination Protocol in Wireless Sensor NetworksJournal of Network2010年5期42谢  娟/朱艳琴Application of Distributed Oblivious Transfer Protocol in Association Rule Mining. 2010 Second International Conference on Computer Engineering and Applications2010年43孟雅菲/龚声蓉A Fast Computer Vision System for Defect Detection of Rubber KeypadICCASM 2010  2010年10月44贡正仙Statistical Machine Translation Based on LDA IUCS 20102010年10月45陈建明The Design of Universal Information Query System Based on SMSICCASM 2010  2010年10月46崔志明A Novel Medical Image Dynamic Fuzzy Classification Model Based on  Ridgelet TransformJournal of Software2010年5期47鲜学丰/崔志明Efficient Selection and Integration of HiddenWeb DatabaseJournal of Computer2010年4期48吴  健Gray Cerebrovascular Image Skeleton Extraction Algorithm Using Level Set ModelJournal of Multimedia2010年3期49李凡长李群机器学习研究综述计算机学报2010年7期50李领治基于双向共享树的MPLS多播流聚合算法通信学报2010年4期51张书奎基于融合树的事件区域检测容错算法通信学报2010年9期52张书奎无线传感器网络中可靠的数据协作传输机制通信学报2010年11期53黄  晨/钱龙华基于卷积树核的无指导中文实体关系抽取研究中文信息学报2010年4期54虞欢欢/钱龙华基于合一句法和实体语义树的中文语义关系抽取中文信息学报2010年5期55王步康/周国栋基于依存句法分析的中文语义角色标注中文信息学报2010年1期56李卫伟 /刘纯平一种基于SSCL的模糊C均值图像分类方法中国图形图像学报2010年12期57王  娟/朱艳琴基于用户行为特征的P2P视频点播系统数据预取机制小型微型计算机系统2010年10期58张招亮/张广泉无线传感器网络的一种可调节的拓扑控制算法小型微型计算机系统2010年2期
+
+教学辅助平台
+学院经费管理系统（校内）
+科研成果申报平台（校内）
+省级重点实验室
+计算机教学网（校内）
+自然语言处理实验室
+
+Copyright 苏州大学计算机科学与技术学院 2018 All Rights Reserved 苏州市十梓街1号
+苏ICP备-10229414  苏公网安备 32050802010530号
+
+link:
+ /main.htm
+首 页 http://scst.suda.edu.cn/main.htm
+学院概况 /11195/list.htm
+学院简介 /11238/list.htm
+历史沿革 /11241/list.htm
+现任领导 /11240/list.htm
+机构设置 /11239/list.htm
+办学资源 /11242/list.htm
+联系方式 /11243/list.htm
+学科建设 /11196/list.htm
+江苏省优势学科 /11244/list.htm
+博士点 /11245/list.htm
+硕士点 /11246/list.htm
+实验室安全 /11247/list.htm
+师资队伍 /11197/list.htm
+师资概况 /11248/list.htm
+教职工名单 /11249/list.htm
+导师简介 /11250/list.htm
+兼职师资 /11251/list.htm
+科学研究 /11198/list.htm
+研究中心 /yjzx/list.htm
+自然语言处理研究中心 /28250/list.htm
+机器学习与图像处理研究中心 /28251/list.htm
+数据科学与工业软件研究中心 /28252/list.htm
+网络科学与工程研究中心 /28253/list.htm
+人工智能研究院 /28254/list.htm
+嵌入式技术及系统能力培养研究中心 /28255/list.htm
+科研机构 /11253/list.htm
+科研项目 /11254/list.htm
+科研论文 /11255/list.htm
+知识产权 /11256/list.htm
+科研政策 /11257/list.htm
+人才培养 /11199/list.htm
+博士生 /11229/list.htm
+硕士生 /11230/list.htm
+本科生 /11231/list.htm
+人才培养方案 /25067/list.htm
+课程教学大纲 /25068/list.htm
+图灵班 /11234/list.htm
+国际交流 /gjjl/list.htm
+学生工作 /11200/list.htm
+工作队伍 /28212/list.htm
+学工通知 /11275/list.htm
+学工新闻 /xgxw/list.htm
+规章制度 /28213/list.htm
+志愿服务 /28216/list.htm
+学生组织 /28218/list.htm
+勤工助学 /28219/list.htm
+心理健康 /28220/list.htm
+职业规划 /28221/list.htm
+成长陪伴 /czpb/list.htm
+党群工作 /11201/list.htm
+基层组织 /jczz/list.htm
+规章制度 /11260/list.htm
+专题活动 /11262/list.htm
+分党校工作 /fdxgz/list.htm
+发展公示 /11264/list.htm
+关工委工作 /11265/list.htm
+工会工作 /ghgz/list.htm
+周国栋 /_upload/article/files/2f/e5/de7ff633499a8bc88e07b7df36d9/14e5010b-af36-48dd-9df0-dcacfc2224ac.pdf
+教学辅助平台 http://csteaching.suda.edu.cn
+学院经费管理系统（校内） http://192.168.125.2:9088/tm/Default.aspx
+科研成果申报平台（校内） http://42.244.43.76:8080/
+省级重点实验室 http://ciptlab.suda.edu.cn/
+计算机教学网（校内） http://sit.suda.edu.cn/
+自然语言处理实验室 http://nlp.suda.edu.cn/
